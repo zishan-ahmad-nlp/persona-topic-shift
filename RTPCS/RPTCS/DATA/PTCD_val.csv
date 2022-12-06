@@ -1,0 +1,956 @@
+﻿conv_id,speaker,utterance,persona,path,topic
+2048,1,i'm great . i was just going on a walk .," i am an introvert.  i am happy a lot of the time.  i love singing.  i don't drink.  lina , my greyhound , is a source of constant affection.",great - class - travel,class
+2048,0,which music class do you want to take priya?,,,
+2048,1,"i do not take any music class, but am a huge punk music fan."," i am an introvert.  i am happy a lot of the time.  i love singing.  i don't drink.  lina , my greyhound , is a source of constant affection.",great - class - travel,travel
+2048,0,me too i am an engineer.,,,
+2049,1,"i am wonderful ! i spent the evening with my husband , daughter and grandchildren by the lake .", my house is by the water.  my business is a place that does bespoke furniture coverings.  i have children and i'm a woman.  i'm very family oriented.  i love being a mom.,daughter - miss - travel,miss
+2049,0,where do you live?,,,
+2049,1,i live in mississippi., my house is by the water.  my business is a place that does bespoke furniture coverings.  i have children and i'm a woman.  i'm very family oriented.  i love being a mom.,daughter - miss - travel,travel
+2049,0,where do you usually vacations?,,,
+2050,1,hi ! i'm too even though it makes my runs a little too cold ., i have a truck.  i like to exercise in the mornings.  i am a player of six strings.  i wish i lived with someone.,little - lot - car,lot
+2050,0,what about the lot? should you not get a car?,,,
+2050,1,i never had a lot., i have a truck.  i like to exercise in the mornings.  i am a player of six strings.  i wish i lived with someone.,little - lot - car,car
+2050,0,but should you not buy a car?,,,
+2051,1,if you want to visit wisconsin and have company stop by sometime ., i really enjoy snack foods.  my sibling is a professional athlete.  i live in the country.  i like snow sports.,company - bmw - car,bmw
+2051,0,bmw makes great cars.,,,
+2051,1,i want to drive a bmw one day., i really enjoy snack foods.  my sibling is a professional athlete.  i live in the country.  i like snow sports.,company - bmw - car,car
+2051,0,what kind of car do you drive currently?,,,
+2052,1,i couldn't complain ., i have less than four pets.  i like to see the bat and ball game.  i am a happy person.  i detest anything to do with going fast on legs.,complain - whine - travel,whine
+2052,0,you should complain a little about something that bothers you.,,,
+2052,1,i can't complain about anything., i have less than four pets.  i like to see the bat and ball game.  i am a happy person.  i detest anything to do with going fast on legs.,complain - whine - travel,travel
+2052,0,are you going overseas next year?,,,
+2053,1,hello . i'm a vegan ! i've lots of pets ., i love the man who paints landscapes on television.  i really love animals.  i love the outdoors.  i studied finance in school and now work in the industry.,vegan - rv - travel,rv
+2053,0,do you enjoy traveling on your rv?,,,
+2053,1,i love rving and camping., i love the man who paints landscapes on television.  i really love animals.  i love the outdoors.  i studied finance in school and now work in the industry.,vegan - rv - travel,travel
+2053,0,you should do a lot of traveling and rving together.,,,
+2054,1,i am in a band i play the saxophone, i love playing t.  i'm very accomplish in martial arts.  i take time off from work to visit a large northern body of water annually in june.  i like caffeinated beverages.  seafood is my favorite kind of food.,band - animals - travel,animals
+2054,0,do you know any animal bands?,,,
+2054,1,"idk, but i know some bands that are animals.", i love playing t.  i'm very accomplish in martial arts.  i take time off from work to visit a large northern body of water annually in june.  i like caffeinated beverages.  seafood is my favorite kind of food.,band - animals - travel,travel
+2054,0,are you planning to be more active in your animal studies?,,,
+2055,1,"it sure is , the factory i used to work for made boxes for corvette parts", i just began telecommuting.  i was once on the road performing my music.  i am an omnivore.  i had a tiresome job.,work - horse - car,horse
+2055,0,"you should buy a horse, its a lot of fun",,,
+2055,1,"i have a horse, her name is my wife.", i just began telecommuting.  i was once on the road performing my music.  i am an omnivore.  i had a tiresome job.,work - horse - car,car
+2055,0,", but there is a car involved.",,,
+2056,1,i'm making my famous pecan pie for my sisters right now !, i am a lawyer.  i like to bake.  i make the greatest dessert all my friends say so.  i'm being hurt by my home owner.  i share my birthday with jesus.,sister - go - restaurant,go
+2056,0,"you should go and meet them, im sure they would love the pie.",,,
+2056,1,what kind of go do you like?, i am a lawyer.  i like to bake.  i make the greatest dessert all my friends say so.  i'm being hurt by my home owner.  i share my birthday with jesus.,sister - go - restaurant,restaurant
+2056,0,what's the difference between go and restaurant?,,,
+2057,1,"awesome , i'm just hanging out here .", i don't like to get dressed up.  i've never met most of the people i've on my social media page.  i don't have roommates.  i do not own a car.,hang - computing - car,computing
+2057,0,what else can you tinker with?,,,
+2057,1,you should tinker with computing. you can use computers to do practically anything., i don't like to get dressed up.  i've never met most of the people i've on my social media page.  i don't have roommates.  i do not own a car.,hang - computing - car,car
+2057,0,"did you know that you can do a lot on your computer, even if you have a car?",,,
+2058,1,got a major in business ., i'm a well educated businessman.  i've had a boyfriend for 24 months.  i am a business major.  i enjoy working with children.  my folks have good careers.,major - ocean - travel,ocean
+2058,0,are you thinking of going to study marine biology?,,,
+2058,1,i've never sailed to a place where the ocean meets the sea. but i want to see the sights and feel the sea water., i'm a well educated businessman.  i've had a boyfriend for 24 months.  i am a business major.  i enjoy working with children.  my folks have good careers.,major - ocean - travel,travel
+2058,0,i play some golf.,,,
+2059,1,i really like traveling and playing with my dogs ., my favorite colors are pretty basic.  i like to travel.  i'm the owner of canines of different breeds.  i aspire to visit places different than where i live.  i got in a lot of trouble growing up.,dog - read - travel,read
+2059,0,what do you like reading?,,,
+2059,1,i read a lot of sci fi and fantasy., my favorite colors are pretty basic.  i like to travel.  i'm the owner of canines of different breeds.  i aspire to visit places different than where i live.  i got in a lot of trouble growing up.,dog - read - travel,travel
+2059,0,"you should read more, have you ever read a book on a plane or on a train?",,,
+2060,1,"hi , yes , i am in college .", i earn hourly pay.  i attend night classes.  i am a waiter.  i just got a divorce.  i want to help people.,college - place - restaurant,place
+2060,0,you should go to this place. it is really nice place. you will not be disappointed!,,,
+2060,1,what is the name of this place?, i earn hourly pay.  i attend night classes.  i am a waiter.  i just got a divorce.  i want to help people.,college - place - restaurant,restaurant
+2060,0,"it is called "" the place "".",,,
+2061,1,i am also i see the increase of pay yah, i've foot art.  i have foot art.  i prefer to adorn myself with things that compliment my skin tone.  i work in the healthcare industry.  i like dentistry but some of it creeps me out.,see - buy - shopping,buy
+2061,0,"i have to say that i like shopping, i enjoy it.",,,
+2061,1,you should do a shopping blog then., i've foot art.  i have foot art.  i prefer to adorn myself with things that compliment my skin tone.  i work in the healthcare industry.  i like dentistry but some of it creeps me out.,see - buy - shopping,shopping
+2061,0,have you been to any nice cities recently?,,,
+2062,1,hey how are you today, i serve in a large city.  i am a horse person.  i live by the ocean.  i've many girls.,today - phone - clothes,phone
+2062,0,i have a good phone. nice phone is good.,,,
+2062,1,"me too, what kind of phone do you use?", i serve in a large city.  i am a horse person.  i live by the ocean.  i've many girls.,today - phone - clothes,clothes
+2062,0,"im not so much interested in making movies right now, i am more interested in making documentaries.",,,
+2063,1,i do like to walk run . . i would rather do that than drive !, i would rather ride my bike into town than by car.  i am under forty six.  i love cheddar.  i like old songs.,walk - job - car,job
+2063,0,have you ever applied for any jobs .,,,
+2063,1,"my brother did not get a job, he is like me.", i would rather ride my bike into town than by car.  i am under forty six.  i love cheddar.  i like old songs.,walk - job - car,car
+2063,0,"even though your brother is older than you, he still has a job.",,,
+2064,1,i'm a barista at a coffee house i do not have a lot of time, i am employed at a business that serves mocha and other caffeinated drinks.  i've a kitten with a sci fi name.  i enjoy performing theatrical songs.  i go to msu.  reality programs with music and liveliness gets my heart racing.,house - steakhouse - restaurant,steakhouse
+2064,0,a barista? how did you get that job?,,,
+2064,1,i got this job through a friend. he knows an owner who owns this restaurant., i am employed at a business that serves mocha and other caffeinated drinks.  i've a kitten with a sci fi name.  i enjoy performing theatrical songs.  i go to msu.  reality programs with music and liveliness gets my heart racing.,house - steakhouse - restaurant,restaurant
+2064,0,nice. what kind of restaurant?,,,
+2065,1,i'm great . i've no job, i am rather short.  i like puppies.  i am searching for a new career challenge.  i don't like blue.  i'm the youngest.,job - ride - travel,ride
+2065,0,do you like riding a bike?,,,
+2065,1,i like riding a bike!, i am rather short.  i like puppies.  i am searching for a new career challenge.  i don't like blue.  i'm the youngest.,job - ride - travel,travel
+2065,0,"i know you like traveling, i have some great ideas for your next trip.",,,
+2066,1,good ! i was out flying a kite today . . . so fun," the person living next door visits my house to see the all blacks.  my only means of transportation is down.  i enjoy flying a kite.  i like activities , but certain ones i like most.",fun - play - travel,play
+2066,0,did you know playing music is also fun?,,,
+2066,1,i was playing a kazoo solo when this guy came walking over and asking what i was playing.," the person living next door visits my house to see the all blacks.  my only means of transportation is down.  i enjoy flying a kite.  i like activities , but certain ones i like most.",fun - play - travel,travel
+2066,0,you don't have to travel to play music.,,,
+2067,1,oh you must keep in shape . i do too, i know a lot about other places.  i'm in charge of my dad and moms company.  i am going to an island soon.  i like to vacation in the carribbean.  i like hitting the gym.,shape - round - travel,round
+2067,0,what about the round shape?,,,
+2067,1,i like the round shape of beach balls and beach balls., i know a lot about other places.  i'm in charge of my dad and moms company.  i am going to an island soon.  i like to vacation in the carribbean.  i like hitting the gym.,shape - round - travel,travel
+2067,0,you should play beach volleyball.,,,
+2068,1,i'm good thanks for asking, i love steak.  i've a dark automobile.  i punch numbers for a living.  i like music and concerts.,thank - help - car,help
+2068,0,you should do more help.,,,
+2068,1,yeah i am helping my parents., i love steak.  i've a dark automobile.  i punch numbers for a living.  i like music and concerts.,thank - help - car,car
+2068,0,do you really like cars?,,,
+2069,1,my cats do not care for loud music ., i have a couple pets.  i like red berries.  i work with animals.  i love animals.,loud - baby - clothes,baby
+2069,0,i have a new born baby.,,,
+2069,1,my baby is a girl., i have a couple pets.  i like red berries.  i work with animals.  i love animals.,loud - baby - clothes,clothes
+2069,0,can you make me some maternity clothes?,,,
+2070,1,hi well not too well . i'm so angry, i hang out in clubs and look at the folks drinking.  i constantly have feelings of anger.  i get around in a jaguar.  i am an elderly male.  i am not a people person.,angry - red - car,red
+2070,0,your body is red and swollen!,,,
+2070,1,i got in a fight with my wife., i hang out in clubs and look at the folks drinking.  i constantly have feelings of anger.  i get around in a jaguar.  i am an elderly male.  i am not a people person.,angry - red - car,car
+2070,0,you should take a car ride. that will make you feel much better.,,,
+2071,1,fun !, i enjoy seeing live music.  i like cities.  i work in a library.  i enjoy helping animals.  i like anything made from italy.,girl - miss - travel,miss
+2071,0,i think miss is a nice name for a place.,,,
+2071,1,"yeah, i like the name.", i enjoy seeing live music.  i like cities.  i work in a library.  i enjoy helping animals.  i like anything made from italy.,girl - miss - travel,travel
+2071,0,i also like to travel.,,,
+2072,1,"hi there , just ate hamburgers ."," i like films that adam sandler are in.  i practiced for my performance all day long.  i like to spin on stage.  i enjoy eating at my local pub , they have a great menu !.",hamburger - burgery - restaurant,burgery
+2072,0,it's a very delicious burger! but can you name a hamburger here.,,,
+2072,1,i also like a burgery. but i guess that's a bit too far from here.," i like films that adam sandler are in.  i practiced for my performance all day long.  i like to spin on stage.  i enjoy eating at my local pub , they have a great menu !.",hamburger - burgery - restaurant,restaurant
+2072,0,do you think there's a good restaurant here.,,,
+2073,1,"hello , i walked my lab a few hours ago myself .", i'm going to have so much free time with my significant other in 12 months.  i've graduates who come to see what i've been up to.  i used to work in education.  i like to be outside.,lab - bicycle - travel,bicycle
+2073,0,me too i like to hike and mountain biking.,,,
+2073,1,"i like to hike. i just started a trip on my bike. it's just me and the wind, but i find it fun.", i'm going to have so much free time with my significant other in 12 months.  i've graduates who come to see what i've been up to.  i used to work in education.  i like to be outside.,lab - bicycle - travel,travel
+2073,0,you should also look into the idea of bike touring. you could meet so many interesting people.,,,
+2074,1,i am just great . its nighttime where i am so i am happy ., my kitten has a name.  my favorite time of day is when it is late.  i enjoy painting.  i found some great gold studs today.,happy - cake - restaurant,cake
+2074,0,you should get a cake then.,,,
+2074,1,i would love to have some cake., my kitten has a name.  my favorite time of day is when it is late.  i enjoy painting.  i found some great gold studs today.,happy - cake - restaurant,restaurant
+2074,0,have you ever had cake at a restaurant?,,,
+2075,1,i'm fine enjoying a summer like day, i have tons of relatives.  i am a immigrant.  eating is something i enjoy.  i like hot weather.,summer - bbq - restaurant,bbq
+2075,0,"i'm fine too, i love bbq.",,,
+2075,1,i've always wanted to try this new style of bbq. is there a good place, i have tons of relatives.  i am a immigrant.  eating is something i enjoy.  i like hot weather.,summer - bbq - restaurant,restaurant
+2075,0,you should try this new style of bbq at some restaurants around you.,,,
+2076,1,"it has been a day , i tell you ! i have four kids , and three animals , and . . . i am ragged !", i got hitched to my high school sweetheart and we now have several children.  i have less than four pets.  i detest anything to do with going fast on legs.  i am a happy person.  i like to see the bat and ball game.,kid - camp - travel,camp
+2076,0,you should go back to camp for your vacation then.,,,
+2076,1,its been a long time since i have been to camp!, i got hitched to my high school sweetheart and we now have several children.  i have less than four pets.  i detest anything to do with going fast on legs.  i am a happy person.  i like to see the bat and ball game.,kid - camp - travel,travel
+2076,0,"you should go to a country at least once in your life, and go camping!",,,
+2077,1,good . tired . i was training all day ., i play basketball and football.  i love the sky in the evening.  my goal is to travel in uncharted territory.  i'm looking for a new career.,train - steamer - travel,steamer
+2077,0,hahaha. your body can handle the steamer.,,,
+2077,1,why not. i am a huge fan of steaming., i play basketball and football.  i love the sky in the evening.  my goal is to travel in uncharted territory.  i'm looking for a new career.,train - steamer - travel,travel
+2077,0,the internet.,,,
+2078,1,i am good enjoying a nice day at the lake, i enjoy making food that tastes good.  i like geometry.  i'm searching for a person.  i love catching fish.,good - chocolate - restaurant,chocolate
+2078,0,why do you like chocolate so much?,,,
+2078,1,chocolate is delicious., i enjoy making food that tastes good.  i like geometry.  i'm searching for a person.  i love catching fish.,good - chocolate - restaurant,restaurant
+2078,0,this is me making art.,,,
+2079,1,"hi , just got back from my shift at the restaurant .", i serve food at the pub down the street.  i enjoy grunge music.  i enjoy wearing jeans and a t shirt.  i need to get a tune up.  i am a positive person.,shift - go - restaurant,go
+2079,0,what do you do on your shift?,,,
+2079,1,"oh that. ive been to the same restaurant for the last 10 years, i make sure everything is okay and handle the food order.", i serve food at the pub down the street.  i enjoy grunge music.  i enjoy wearing jeans and a t shirt.  i need to get a tune up.  i am a positive person.,shift - go - restaurant,restaurant
+2079,0,"you are the manager. i think it is so nice being the manager of a restaurant. 
+<|endoftext|",,,
+2080,1,hello . it sounds like you need to work out ., i dropped out of school.  i learned to play the piano as a child.  my father is a godly man.  i like to relax.,work - place - travel,place
+2080,0,you should go to work in some place where you like to go.,,,
+2080,1,"i do not know, what kind of place you like to go.", i dropped out of school.  i learned to play the piano as a child.  my father is a godly man.  i like to relax.,work - place - travel,travel
+2080,0,do you like to travel often?,,,
+2081,1,i am well ., my pop used to be a personal driver.  the only beaches i have seen in this country are on the atlantic.  i was asked to give my opinion on preschool education for a tv segment.  i have made 2 trips overseas.  my relative knows how to go fishing.,work - go - travel,go
+2081,0,you should go on more trips then.,,,
+2081,1,ive done a lot of travelling and i must say it., my pop used to be a personal driver.  the only beaches i have seen in this country are on the atlantic.  i was asked to give my opinion on preschool education for a tv segment.  i have made 2 trips overseas.  my relative knows how to go fishing.,work - go - travel,travel
+2081,0,"i want to go to new york again, how long did you stay there last time?",,,
+2082,1,"i'm fine , i'm very sorry for your loss .", i like to be outside.  i've a dog with a lot of hair.  i love writing stories.  i work in the media and publishing industry.  my mom is deceased.,sorry - walk - travel,walk
+2082,0,i also like to walk.,,,
+2082,1,"i love to walk, i don't feel as if i live until i walk daily.", i like to be outside.  i've a dog with a lot of hair.  i love writing stories.  i work in the media and publishing industry.  my mom is deceased.,sorry - walk - travel,travel
+2082,0,"you should take a trip at some point, you have a lot of time, why don't you travel?",,,
+2083,1,have not seen it ., i've been a wife for a short amount of time.  i'm a barber.  my place of residence is floating on a river.  i like to cut hair.  i like purples.,see - buy - shopping,buy
+2083,0,its been a very hard journey. what did you get to see?,,,
+2083,1,"i see a big sign that says buy, so have you bought anything?", i've been a wife for a short amount of time.  i'm a barber.  my place of residence is floating on a river.  i like to cut hair.  i like purples.,see - buy - shopping,shopping
+2083,0,can you share with us some of the things you bought?,,,
+2084,1,i am so excited . because my papa is taking me for ice cream later !, i love eating frozen desserts with my family.  i like the main car in the movie.  my feline is sleeping.  i've a lot of family traditions.,excited - fun - shopping,fun
+2084,0,"you should go shopping, it will be fun.",,,
+2084,1,i had fun shopping., i love eating frozen desserts with my family.  i like the main car in the movie.  my feline is sleeping.  i've a lot of family traditions.,excited - fun - shopping,shopping
+2084,0,are you having fun shopping?,,,
+2085,1,"hello ! i actually do , i'm in need of a haircut .", i've a clan.  i'm a husband and a dad.  i enjoy throwing a ball down a lane.  my children are my life.,haircut - coupe - car,coupe
+2085,0,do you like the coupe?,,,
+2085,1,i do not like the coupe., i've a clan.  i'm a husband and a dad.  i enjoy throwing a ball down a lane.  my children are my life.,haircut - coupe - car,car
+2085,0,i am not sure what i like but i know i like a coupe.,,,
+2086,1,great ! i just got back from a long walk with my dog ., my mom taught for years.  i love to eat mixed fruits.  i love outside.  i work in physical fitness.  i'm not married.,long - side - camera,side
+2086,0,side walking is great exercising. you get to enjoy the beauty of nature and still get good exercise in.,,,
+2086,1,my side walk is 3km/2.5miles., my mom taught for years.  i love to eat mixed fruits.  i love outside.  i work in physical fitness.  i'm not married.,long - side - camera,camera
+2086,0,side camera walking is a great way to capture images of beauty.,,,
+2087,1,its my favorite, i've a lot of student debt.  eating is something i enjoy.  i like hot weather.  i am a immigrant.,like - bar - restaurant,bar
+2087,0,you should go to a bar when you want a nice time.,,,
+2087,1,"i love a good time, and a nice drink.", i've a lot of student debt.  eating is something i enjoy.  i like hot weather.  i am a immigrant.,like - bar - restaurant,restaurant
+2087,0,have you ever been to a restaurant?,,,
+2088,1,hi there ! i am currently eating fast food . i eat it too often ., i have a practical car.  i cannot wait for it to feel icy out again in a few months.  my job is in government relations.  i am a patriot.  i consume a poor diet.,food - carbage - car,carbage
+2088,0,i want to try carbage foods. do you have a good recipe for carbage?,,,
+2088,1,i have some healthy carbage recipes. will you have a taste?, i have a practical car.  i cannot wait for it to feel icy out again in a few months.  my job is in government relations.  i am a patriot.  i consume a poor diet.,food - carbage - car,car
+2088,0,"i would like to get a really good car, i have to drive quite a bit.",,,
+2089,1,hi happy birthday !, when i loosen up i enjoy feeling free.  i spend a lot of time at my job because i think feeding people is important.  my brothers and sisters are very supportive.  i just discovered a famous singer i knew nothing about.  i am a disgruntled worker.,celebrate - happy - car,happy
+2089,0,you should take this happy moment to celebrate.,,,
+2089,1,oh happy day!. you should celebrate., when i loosen up i enjoy feeling free.  i spend a lot of time at my job because i think feeding people is important.  my brothers and sisters are very supportive.  i just discovered a famous singer i knew nothing about.  i am a disgruntled worker.,celebrate - happy - car,car
+2089,0,do you know what car means?,,,
+2090,1,"good , i'm looking forward to a couple of days off .", we are saying i do in the central valley.  i am getting married soon.  i can not wait to go to canada after our wedding.  my relatives don't like my wife.  my wedding is coming up.,couple - companion - travel,companion
+2090,0,i think you have a great companion.,,,
+2090,1,she is a great companion., we are saying i do in the central valley.  i am getting married soon.  i can not wait to go to canada after our wedding.  my relatives don't like my wife.  my wedding is coming up.,couple - companion - travel,travel
+2090,0,i am thinking of a trip to canada. what should be our next stops in canada?,,,
+2091,1,"oh , so much better now that the power is on after the hurricane .", i visited the land of the rising sun.  i begin my last schooling session soon.  i like canadian sports.  i come from an artistic family.,power - sail - travel,sail
+2091,0,you should have used a sail boat to travel.,,,
+2091,1,"i think i had a sail boat once, so it should have been better then.", i visited the land of the rising sun.  i begin my last schooling session soon.  i like canadian sports.  i come from an artistic family.,power - sail - travel,travel
+2091,0,you need a sail boat to visit a country like that.,,,
+2092,1,ok stressful . my girlfriend and i broke up, i just became single my girl left me.  half way to retirement.  i recently had to change my sleep schedule.  i have pets.  i work in law enforcement.,girlfriend - comrade - camera,comrade
+2092,0,congratulations on your new job priya.,,,
+2092,1,i do not have a camera that is close by. what kind do you use?, i just became single my girl left me.  half way to retirement.  i recently had to change my sleep schedule.  i have pets.  i work in law enforcement.,girlfriend - comrade - camera,camera
+2092,0,this is my cell phone camera.,,,
+2093,1,bummed . there are no good waves today . i wanted to surf ., i have a long wavy ponytail.  i do not like animal food.  i adore catching the waves on my board.  dusk is my favorite time of day.  my house is by the beach.,good - business - restaurant,business
+2093,0,"i'm not really good at business but i am interested in it, so i thought id share.",,,
+2093,1,business is a lot of fun. it's a good way to make money., i have a long wavy ponytail.  i do not like animal food.  i adore catching the waves on my board.  dusk is my favorite time of day.  my house is by the beach.,good - business - restaurant,restaurant
+2093,0,would you like to go out for a good business dinner?,,,
+2094,1,"great . it is always a good day here in portland , oregon .", i invested in real estate.  i stay in the northern states.  i enjoy fixing my brew.  i'm particular about the taste of my beverages.,good - repair - travel,repair
+2094,0,"i like repairing things, do you like repairing?",,,
+2094,1,"i am a good repair guy, i am repairing things in my free time.", i invested in real estate.  i stay in the northern states.  i enjoy fixing my brew.  i'm particular about the taste of my beverages.,good - repair - travel,travel
+2094,0,you should repair things during your travel as well.,,,
+2095,1,the classic suv . my husband would say mustang thought !, i am an appointment scheduler.  i live on the east coast.  i reside with the love of my life and our kids.  i like the capital of grunge.,husband - customer - shopping,customer
+2095,0,do you have a car in your neighborhood?,,,
+2095,1,i do have a car., i am an appointment scheduler.  i live on the east coast.  i reside with the love of my life and our kids.  i like the capital of grunge.,husband - customer - shopping,shopping
+2095,0,do you shop at your neighborhood walmart?,,,
+2096,1,completely bored . all i do is watch foreign movies or sit on the computer, i need to make a change.  i like to view flims from different countries.  i want to talk german.  i like to travel to other countries.  i'm addicted to the internet.,foreign - abroad - travel,abroad
+2096,0,where will you travel to next? you should keep travelling at least once a year.,,,
+2096,1,maybe to Germany or to Spain., i need to make a change.  i like to view flims from different countries.  i want to talk german.  i like to travel to other countries.  i'm addicted to the internet.,foreign - abroad - travel,travel
+2096,0,have you ever visited Germany? it's really beautiful.,,,
+2097,1,doing great ., i like to play sports.  i hope to move to a tropical island once i am able to stop working.  i've a job in finance.  i have a lot of height on me.  i like to listen to mick jagger group.,stone - round - travel,round
+2097,0,"did you make it to the round of the contest, i could not make it there last time",,,
+2097,1,yes i made it to the round., i like to play sports.  i hope to move to a tropical island once i am able to stop working.  i've a job in finance.  i have a lot of height on me.  i like to listen to mick jagger group.,stone - round - travel,travel
+2097,0,im doing great.,,,
+2098,1,i'm well . i'm an avid reader ., i love working with kids.  i'm married to a man who serves the public as a police officer.  i enjoy a good book.  going to the ocean is one of my greatest pleasures.  i have a beautiful wife.,avid - keen - can - fly - travel,keen
+2098,0,you know the keen is a bird right.,,,
+2098,1,yes., i love working with kids.  i'm married to a man who serves the public as a police officer.  i enjoy a good book.  going to the ocean is one of my greatest pleasures.  i have a beautiful wife.,avid - keen - can - fly - travel,can
+2098,0,can is an animal.,,,
+2098,1,can's mean that you can take the can with you., i love working with kids.  i'm married to a man who serves the public as a police officer.  i enjoy a good book.  going to the ocean is one of my greatest pleasures.  i have a beautiful wife.,avid - keen - can - fly - travel,fly
+2098,0,do you like to fly?,,,
+2098,1,i have learned to climb and fly., i love working with kids.  i'm married to a man who serves the public as a police officer.  i enjoy a good book.  going to the ocean is one of my greatest pleasures.  i have a beautiful wife.,avid - keen - can - fly - travel,travel
+2098,0,why haven't you ever used your talent for travel?,,,
+2099,1,that is fantastic !, most of my friends are very happy to be around me.  i cannot tell a lie.  i love using my video camera.  i am hyper which can overwhelm others that are with me.  being dead scared me.,fantastic - fancy - very - note - laptop,fancy
+2099,0,but now you are being too fancy.,,,
+2099,1,what about just fancy?, most of my friends are very happy to be around me.  i cannot tell a lie.  i love using my video camera.  i am hyper which can overwhelm others that are with me.  being dead scared me.,fantastic - fancy - very - note - laptop,very
+2099,0,do you know what fancy is?,,,
+2099,1,it is very nice!, most of my friends are very happy to be around me.  i cannot tell a lie.  i love using my video camera.  i am hyper which can overwhelm others that are with me.  being dead scared me.,fantastic - fancy - very - note - laptop,note
+2099,0,Do you have a fancy notebook ?,,,
+2099,1,what would you call a facy notebook?, most of my friends are very happy to be around me.  i cannot tell a lie.  i love using my video camera.  i am hyper which can overwhelm others that are with me.  being dead scared me.,fantastic - fancy - very - note - laptop,laptop
+2099,0,did you mean a notebook?,,,
+2100,1,ok but i need my veggie burger ., i really like mushy foods.  i really enjoy physical sports.  my sibling was in the military.  i enjoy hbo originals.  i do not eat meat.,veggie - plant - trifoliolate - compound - laptop,plant
+2100,0,you should plant some plants in your house. they help clean the air and provide oxygen.,,,
+2100,1,"i agree, my plants can clean the air better than my air conditioner.", i really like mushy foods.  i really enjoy physical sports.  my sibling was in the military.  i enjoy hbo originals.  i do not eat meat.,veggie - plant - trifoliolate - compound - laptop,trifoliolate
+2100,0,plants can be toxic but not all of them are. trifoliolate helps in reducing the toxicity of some plants.,,,
+2100,1,i do not really have any plants but i do have a lot of trifoliolate., i really like mushy foods.  i really enjoy physical sports.  my sibling was in the military.  i enjoy hbo originals.  i do not eat meat.,veggie - plant - trifoliolate - compound - laptop,compound
+2100,0,you can get compound from trifoliolate.,,,
+2100,1,is this compound used in manufacturing laptops?, i really like mushy foods.  i really enjoy physical sports.  my sibling was in the military.  i enjoy hbo originals.  i do not eat meat.,veggie - plant - trifoliolate - compound - laptop,laptop
+2100,0,trifoliolate is used for making laptops. my friends are from china and they want laptops.,,,
+2101,1,"hello , i am julie .", i work in a snack shop.  i went to alabama state.  i like to exercise.  i watch cnn every day.,julie - july - jul - school - travel,july
+2101,0,can you talk about july. what was your experience?,,,
+2101,1,july was a great month., i work in a snack shop.  i went to alabama state.  i like to exercise.  i watch cnn every day.,julie - july - jul - school - travel,jul
+2101,0,how was july?,,,
+2101,1,july was a good month., i work in a snack shop.  i went to alabama state.  i like to exercise.  i watch cnn every day.,julie - july - jul - school - travel,school
+2101,0,july was great. did you end up graduating?,,,
+2101,1,yes., i work in a snack shop.  i went to alabama state.  i like to exercise.  i watch cnn every day.,julie - july - jul - school - travel,travel
+2101,0,did you get to travel?,,,
+2102,1,pretty good . i love the color green its my fave color ., i am partial to shades of grass and teal.  i want to sing professionally.  sports are fun.  my dad used to be employed at general electrics.  i adore cats.,fave - favorite - color - light - travel,favorite
+2102,0,"your favorite color is good, what other color do you like?",,,
+2102,1,i am partial to yellow and orange i love the color yellow., i am partial to shades of grass and teal.  i want to sing professionally.  sports are fun.  my dad used to be employed at general electrics.  i adore cats.,fave - favorite - color - light - travel,color
+2102,0,what other colors do people like?,,,
+2102,1,i like blue green. but my favorite color is yellow., i am partial to shades of grass and teal.  i want to sing professionally.  sports are fun.  my dad used to be employed at general electrics.  i adore cats.,fave - favorite - color - light - travel,light
+2102,0,"you should get a nice light for your computer, how do you feel about the sun.",,,
+2102,1,i am partial to indirect sunlight i like the suns' shadow on the pavement at dawn or dusk., i am partial to shades of grass and teal.  i want to sing professionally.  sports are fun.  my dad used to be employed at general electrics.  i adore cats.,fave - favorite - color - light - travel,travel
+2102,0,what do you think about traveling?,,,
+2103,1,i'm charley .," i like going fast.  i want to see the new films.  my daily goal is to take 15 , 000 steps.  i am a hard working individual.",charley - diminutive - mat - rush - travel,diminutive
+2103,0,is charley your nickname?,,,
+2103,1,"i am charley, i like diminutive things."," i like going fast.  i want to see the new films.  my daily goal is to take 15 , 000 steps.  i am a hard working individual.",charley - diminutive - mat - rush - travel,mat
+2103,0,what kind of mat do you have?,,,
+2103,1,"i have a mat, it's not mat, i call it rug."," i like going fast.  i want to see the new films.  my daily goal is to take 15 , 000 steps.  i am a hard working individual.",charley - diminutive - mat - rush - travel,rush
+2103,0,what rush is that then?,,,
+2103,1,"it is a rush, it is the one you use in a movie."," i like going fast.  i want to see the new films.  my daily goal is to take 15 , 000 steps.  i am a hard working individual.",charley - diminutive - mat - rush - travel,travel
+2103,0,you should experience the rush in a car. do you think you would like it?,,,
+2104,1,"hello , i'm jessica . nice to meet you .", in my youth i could spell competitively.  i've a high voice.  i do not like to be out with nothing around me.  i made it to printed words.  i'm an expert at making food.,jessica - jess - jeter - roll - camera,jess
+2104,0,how are you jessica?,,,
+2104,1,i'm well thanks., in my youth i could spell competitively.  i've a high voice.  i do not like to be out with nothing around me.  i made it to printed words.  i'm an expert at making food.,jessica - jess - jeter - roll - camera,jeter
+2104,0,are you an avid sports person?,,,
+2104,1,i'm an avid sports person., in my youth i could spell competitively.  i've a high voice.  i do not like to be out with nothing around me.  i made it to printed words.  i'm an expert at making food.,jessica - jess - jeter - roll - camera,roll
+2104,0,you'll need a roll in order to take a picture of the sunset.,,,
+2104,1,i have a good camera but i have not roll it in a long time. but i will for you., in my youth i could spell competitively.  i've a high voice.  i do not like to be out with nothing around me.  i made it to printed words.  i'm an expert at making food.,jessica - jess - jeter - roll - camera,camera
+2104,0,can you show me your new camera.,,,
+2105,1,i am from central arkansas ., i'm an amateur psychologist.  i enjoy aggressive bands.  after work i enjoy beautifying people.  i'm a single parent of boys.,wanna - gotta - gotcha - computing - laptop,gotta
+2105,0,"your name has reminded me of a song by the band "" tupac "". can you hear the song?",,,
+2105,1,no not really., i'm an amateur psychologist.  i enjoy aggressive bands.  after work i enjoy beautifying people.  i'm a single parent of boys.,wanna - gotta - gotcha - computing - laptop,gotcha
+2105,0,"no not really, it is "" gotcha "". i can confirm that.",,,
+2105,1,"yes that is "" gotcha "". i can hear it now because the song has a sample.", i'm an amateur psychologist.  i enjoy aggressive bands.  after work i enjoy beautifying people.  i'm a single parent of boys.,wanna - gotta - gotcha - computing - laptop,computing
+2105,0,"you might like to use some of the "" gotcha "" software packages that can help you with your daily computing projects.",,,
+2105,1,me too i really enjoy computing., i'm an amateur psychologist.  i enjoy aggressive bands.  after work i enjoy beautifying people.  i'm a single parent of boys.,wanna - gotta - gotcha - computing - laptop,laptop
+2105,0,what kind of computer do you use?,,,
+2106,1,"the beatles , i suppose . they're the best .", i date a lot of girls.  i was born in argentina.  i enjoy being outside.  i love my knee highs.  i prefer meat products of the cow variety.,beatle - beatledom - quality - ease - travel,beatledom
+2106,0,i know beatledom. they are the best. the beatles came first though.,,,
+2106,1,i prefer beatledom., i date a lot of girls.  i was born in argentina.  i enjoy being outside.  i love my knee highs.  i prefer meat products of the cow variety.,beatle - beatledom - quality - ease - travel,quality
+2106,0,i am not sure whether beatledom or quality is the best.,,,
+2106,1,"quality is good, people will still buy the beatle products.", i date a lot of girls.  i was born in argentina.  i enjoy being outside.  i love my knee highs.  i prefer meat products of the cow variety.,beatle - beatledom - quality - ease - travel,ease
+2106,0,you have to be careful when you buy an easy product.,,,
+2106,1,but the beatles can still do hard things., i date a lot of girls.  i was born in argentina.  i enjoy being outside.  i love my knee highs.  i prefer meat products of the cow variety.,beatle - beatledom - quality - ease - travel,travel
+2106,0,you can get the beatles beatle on your mind.,,,
+2107,1,"i am doing okay , just having some popeyes .", i am a patriot.  i cannot wait for it to feel icy out again in a few months.  i consume a poor diet.  my job is in government relations.  i have a practical car.,popeyes - popeye - muscle - accelerator - car,popeye
+2107,0,do you know where the popeyes is?.,,,
+2107,1,theres not much to tell about popeyes., i am a patriot.  i cannot wait for it to feel icy out again in a few months.  i consume a poor diet.  my job is in government relations.  i have a practical car.,popeyes - popeye - muscle - accelerator - car,muscle
+2107,0,so you like the muscle food?,,,
+2107,1,what muscles do you want to build?, i am a patriot.  i cannot wait for it to feel icy out again in a few months.  i consume a poor diet.  my job is in government relations.  i have a practical car.,popeyes - popeye - muscle - accelerator - car,accelerator
+2107,0,do you think you can build an accelerator?,,,
+2107,1,"i'm going to build an accelerator, do you want one?", i am a patriot.  i cannot wait for it to feel icy out again in a few months.  i consume a poor diet.  my job is in government relations.  i have a practical car.,popeyes - popeye - muscle - accelerator - car,car
+2107,0,do you want a car?,,,
+2108,1,lemme give him a hug !, i like children.  i like to raise animals.  my dad is a priest.  i live in a quiet neighborhood.,lemme - gimme - give - out - restaurant,gimme
+2108,0,gimme is not a real word.,,,
+2108,1,i like gimme., i like children.  i like to raise animals.  my dad is a priest.  i live in a quiet neighborhood.,lemme - gimme - give - out - restaurant,give
+2108,0,do you like giving?,,,
+2108,1,i love giving. i love giving hugs., i like children.  i like to raise animals.  my dad is a priest.  i live in a quiet neighborhood.,lemme - gimme - give - out - restaurant,out
+2108,0,he is coming for a surprise.,,,
+2108,1,did he find out about my surprise hug?, i like children.  i like to raise animals.  my dad is a priest.  i live in a quiet neighborhood.,lemme - gimme - give - out - restaurant,restaurant
+2108,0,i am fine.,,,
+2109,1,i'm chris ., i am manly.  i'm not old.  i own a chihuahua.  i love to tackle people in sports.,weekend - sabbath - preparation - note - laptop,sabbath
+2109,0,i have a sabbath statement for you.,,,
+2109,1,my sabbath starts with a prayer., i am manly.  i'm not old.  i own a chihuahua.  i love to tackle people in sports.,weekend - sabbath - preparation - note - laptop,preparation
+2109,0,do you know how to prepare food in your house that lasts at least for a week?,,,
+2109,1,i prepare food ahead of time., i am manly.  i'm not old.  i own a chihuahua.  i love to tackle people in sports.,weekend - sabbath - preparation - note - laptop,note
+2109,0,you should take notes of your meetings and prepare them ahead of time.,,,
+2109,1,i have 4 tabs for my notes., i am manly.  i'm not old.  i own a chihuahua.  i love to tackle people in sports.,weekend - sabbath - preparation - note - laptop,laptop
+2109,0,do you know how to do all this stuff in a laptop?,,,
+2110,1,zucchini bread ! i'm fantastic !, animals are my favorite past time.  i love the ponies cartoon.  i want to be memorable.  i prefer felines.,fantastic - fancy - very - note - laptop,fancy
+2110,0,"you should do some fancy dishes then, how does your kitchen look?",,,
+2110,1,i love fancy food., animals are my favorite past time.  i love the ponies cartoon.  i want to be memorable.  i prefer felines.,fantastic - fancy - very - note - laptop,very
+2110,0,you should get the very fancy dessert.,,,
+2110,1,i love very fancy stuff., animals are my favorite past time.  i love the ponies cartoon.  i want to be memorable.  i prefer felines.,fantastic - fancy - very - note - laptop,note
+2110,0,"this is great, do you have a fancy notebook?",,,
+2110,1,a very fancy notebook., animals are my favorite past time.  i love the ponies cartoon.  i want to be memorable.  i prefer felines.,fantastic - fancy - very - note - laptop,laptop
+2110,0,do you have laptop?,,,
+2111,1,i graduated from stanford so i probably can ., there are two other people in my family.  i attended an ivy league college.  i am a goal keeper on the my team.  i love football.  i like italian cuisine.,stanford - village - british - top - laptop,village
+2111,0,you should have a village house experience. i can help you with that.,,,
+2111,1,we have to find a village first., there are two other people in my family.  i attended an ivy league college.  i am a goal keeper on the my team.  i love football.  i like italian cuisine.,stanford - village - british - top - laptop,british
+2111,0,are there any british villages in your area?,,,
+2111,1,but there are no british villages in my country., there are two other people in my family.  i attended an ivy league college.  i am a goal keeper on the my team.  i love football.  i like italian cuisine.,stanford - village - british - top - laptop,top
+2111,0,you should go to the top for dinner.,,,
+2111,1,top is the best restaurant., there are two other people in my family.  i attended an ivy league college.  i am a goal keeper on the my team.  i love football.  i like italian cuisine.,stanford - village - british - top - laptop,laptop
+2111,0,i can't agree with you more.,,,
+2112,1,"i love rain , love it , it is great for veggies", i have 7 pets.  i do not eat meat.  i am employed in animal safety and rescue.  i've a great job.,veggie - plant - trifoliolate - compound - laptop,plant
+2112,0,"i love eating vegetables, i love veggies.",,,
+2112,1,"my favorite vegetables are okra, eggplant, brussel sprouts.", i have 7 pets.  i do not eat meat.  i am employed in animal safety and rescue.  i've a great job.,veggie - plant - trifoliolate - compound - laptop,trifoliolate
+2112,0,"brussel sprouts are great, you should try them.",,,
+2112,1,you should plant some trifoliolate next spring., i have 7 pets.  i do not eat meat.  i am employed in animal safety and rescue.  i've a great job.,veggie - plant - trifoliolate - compound - laptop,compound
+2112,0,your compound is a mixture of compounds.,,,
+2112,1,"you would make your own compound, if you want to.", i have 7 pets.  i do not eat meat.  i am employed in animal safety and rescue.  i've a great job.,veggie - plant - trifoliolate - compound - laptop,laptop
+2112,0,"i love hiking in the mountains, thats why i moved to south africa.",,,
+2113,1,, my job involves saving lives.  i love making people happy no matter where i am.  i own a car.  when i'm cleaning myself i turn on pop music.  i like to be outside.,work - car,<start>
+2113,0,i'm behind in my school lands and i wish i live in another country .,,,
+2114,1,, i enjoy what i do for a living.  i like to exercise.  i like the sand on my feet.  my puppy is called georgie.  iin my previous job i was a recruiter for time warner.,work - car,<start>
+2114,0,hi how are you doing ?,,,
+2115,1,, my appearance matters when i am out and about.  i spend a lot of time on my looks.  i'm very self conscious.  i'm a very vain person.,current - car,<start>
+2115,0,what do you like to do ?,,,
+2116,1,, i like the world of books.  i cannot go to a lot of places because of my seizures.  i possess a lot of patience.  there was little love in my house when i was young.  i would enjoy having a dip in the pool.,read - travel,<start>
+2116,0,hi ! what are you doing ?,,,
+2117,1,, i like bright colors.  i love nature.  i like nintendo.  i work in a cubicle.  i try to stay fit.,work - car,<start>
+2117,0,hi how are you today,,,
+2118,1,, i like mexican cuisine.  we live by the eiffel tower.  i am an avid reader.,today - restaurant,<start>
+2118,0,hi,,,
+2119,1,, the rain forest is interesting to me.  the taste of hops and barley is something i could do without.  my job requires me to be there three days a week.  i have a sleep buddy.,work - car,<start>
+2119,0,hi how are you today ?,,,
+2120,1,, i enjoy learning.  no one is with me.  i have a lot of worldly knowledge about food.  i like to listen to music.,well - car,<start>
+2120,0,hi there . i own my own company .,,,
+2121,1,, i have the over night shift in customer service.  i feel at home on the water.  winter is my favorite season.  i like the guy that plays in mobster rolls.,work - car,<start>
+2121,0,"hi , i am max and i am an introvert . so , lets keep this short .",,,
+2122,1,," i've grown some very large plants.  i have a passion for feeding the hungry.  i like mystery books.  i have three kids.  if my lover dies before me , i will be with him in death.",work - car,<start>
+2122,0,hello . i just got back from australia . how are you ?,,,
+2123,1,, i enjoy viewing cinematic performances on a box at home.  i work with automobiles.  pasta is my favorite meal.  i wish i had a higher salary.  i can watch tv for hours.,work - car,<start>
+2123,0,i've been feeling a little old . my only child just graduated college .,,,
+2124,1,, i used to participate in contests.  getting a manicure makes me more confident.  i've only a child.  kittens irritate my allergies.,nail - travel,<start>
+2124,0,hi ! my name is river song . i'm named for my grandmother . who are you ?,,,
+2125,1,, i like outdoor activities.  i recently received a promotion at my job.  my wife and i have a small family of 5.  i work with lawyers.,work - car,<start>
+2125,0,"i like being by myself , wear pink all the time and i teach yoga . you ?",,,
+2126,1,, i like lifting but not with my legs.  i plan on becoming a cop.  i work out a lot.,work - car,<start>
+2126,0,"hello , how are you tonight ?",,,
+2127,1,, i want to volunteer more.  i cant wait to drive.  i flip burgers at mickey dees for a living.  i still am staying with my mom and dad.,work - car,<start>
+2127,0,hey how you doing ? i am rob !,,,
+2128,1,, i've a spouse.  i'm in nyc.  i'm a journalist.  i like to learn new things.  my sister has lots of kids.,cold - restaurant,<start>
+2128,0,"i do not care how cold it gets i'm getting me some ice cream , its comfort food .",,,
+2129,1,, big plates of with h20 make my existence possible.  i am caught up on all my shows.  i have totaled two cars.  i enjoy being active outdoors.,today - car,<start>
+2129,0,hello i enjoy veterans since i'm a old veteran,,,
+2130,1,, i work out a lot.  my work in the lab was always most important to me.  i am a gymnast.  my mom and dad knew a lot about science.,work - car,<start>
+2130,0,what are you up to today ?,,,
+2131,1,," i ate anything i saw before , i just eat things from roots these days.  i love the nhl.  i enjoy stretching and exercise.  i enjoy football and other games.",well - car,<start>
+2131,0,hi there . how are you ?,,,
+2132,1,, i am a journalist.  i've a spouse.  my sister has lots of kids.  i like to learn new things.  i am in nyc.,go - restaurant,<start>
+2132,0,good evening . how are you ?,,,
+2133,1,, i'm always up later than most.  i like to program.  i am an lgbt ally.  i love programming.  i want to be an entrepreneur when i get out of school.,work - car,<start>
+2133,0,hi how are you this evening ?,,,
+2134,1,, i cut down trees.  i am a lumberjack by trade.  i enjoy breakfast food.  i like to be at the lake.  i'm strong.,world - travel,<start>
+2134,0,my in law runs a big hollywood studio,,,
+2135,1,, acoustic sounds so good.  i enjoy cruising around on a flat board with four wheels.  riding my huffy is my favorite.  i enjoy listening to some good tunes.,play - travel,<start>
+2135,0,hello i just came back from trying to get on hells kitchen,,,
+2136,1,," i work in a lawyers firm.  because i work out daily , my body is well toned.  i like funny shows.  i've a lot of hair on my face , but none on my head.",work - car,<start>
+2136,0,hi ! how are you this evening ?,,,
+2137,1,, i really love dogs.  i go to a lot of formal events.  i am employed at the stock exchange.  i love listening to piano.  i reside in manhattan.,work - car,<start>
+2137,0,good afternoon how are you today ?,,,
+2138,1,, my pop used to be a personal driver.  i have made 2 trips overseas.  my relative knows how to go fishing.  the only beaches i've seen in this country are on the atlantic.,wend - travel,<start>
+2138,0,hi ! it is nice to get to chat like this .,,,
+2139,1,, i am unhealthy.  i spend my afternoon hours relaxing.  i do not enjoy spending time with people.  i'm a labor worker.,well - car,<start>
+2139,0,"hello , how are you doing tonight ?",,,
+2140,1,," i plan to ask my girlfriend to marry me very soon.  i'm 22 years old.  in 12 weeks , i will be a parent.  i work with young athletes.",work - car,<start>
+2140,0,"hi friend , have you been watching any good anime lately ?",,,
+2141,1,, i am a pretty lazy person.  i am all about posture.  i'm all about posture.  i am a pretty lazy person.  i got some kicks that are awesome.,chair - car,<start>
+2141,0,hey how are you doing today,,,
+2142,1,, i do not have any siblings.  i have a love of reptiles.  i've color on my face.  i like bright colors.,well - car,<start>
+2142,0,hey there . how are you ?,,,
+2143,1,, making cookies is fun.  i like to garden on the weekends.  i live in the long horn state.  my mom was an educator.  i am an equestrian.,well - car,<start>
+2143,0,hello how are you this fine evening,,,
+2144,1,, i can not believe it has been a year since i began.  i am a part of the nfl team in philly.  i have been with this group for over 12 months.  i am a football star.,work - car,<start>
+2144,0,hello how are you doing ?,,,
+2145,1,, i'm a southern.  i cannot eat certain foods due to flatulence.  i enjoy pop music.  i do not do illegal substances because i do not have access to them.  i've awesome people i hang out with.,well - car,<start>
+2145,0,how are you this fine evening ?,,,
+2146,1,, my dad loved being in the kitchen.  i learned about morals from him.  someone i know works well.  he loves his job.,work - car,<start>
+2146,0,hello how is your day going ?,,,
+2147,1,, i love the red head british singer.  i have a very strict diet.  i'm a sucker for romance.  i enjoy language arts.,bed - clothes,<start>
+2147,0,hi my name is renee tell me a little about yourself,,,
+2148,1,, i invested in real estate.  i am particular about the taste of my beverages.  i enjoy fixing my brew.  i like people of the same sex and gender as me.,work - car,<start>
+2148,0,hello ! how is your day going ?,,,
+2149,1,, i go everywhere on my mini motorcycle.  i like to test my voice while i clean off.  i spend a lot of time watching tv.  i feel awkward sometimes socially.,computing - car,<start>
+2149,0,"married , so no funny business",,,
+2150,1,," i cannot stand winters.  my family lost our agricultural home some weeks ago so i'm searching for employment.  i'm a farm worker , currently not employed.  i have a house in the midwest.",well - car,<start>
+2150,0,"hi , how are you doing today ?",,,
+2151,1,, the sky looks beautiful to me.  i recently graduated from college.  i'm a mother.  i used to wrestle.,well - car,<start>
+2151,0,"hi there , how are you ?",,,
+2152,1,, i really love learning different languages and habe been studying them for years.  i hate my old job.  i enjoy writing.  i want to be an author.  i'm an author because i'm jobless.,work - car,<start>
+2152,0,hello are you a night owl or a home body,,,
+2153,1,, i spoil my pets.  i do not eat meat.  i enjoy my job in a coffee shop.  i like to garden.,today - restaurant,<start>
+2153,0,hi,,,
+2154,1,, i am overweight.  i've puppies.  i own a bike.  i've diabetes.,work - car,<start>
+2154,0,hello what do you like to do for fun ?,,,
+2155,1,, i'm a labor worker.  i am so lazy at home but not at work.  i don't enjoy spending time with people.  i'm unhealthy.  i spend my afternoon hours relaxing.,work - car,<start>
+2155,0,hello there how are you ?,,,
+2156,1,, i enjoy writing.  i've a crappy job at a fast food restaurant.  i enjoy being lazy in bed.  i view movies online.,work - car,<start>
+2156,0,hi dude ! what is up ?,,,
+2157,1,, i jam on the skins.  i work in a restaurant.  my youth was spent in the public housing in a major city in illinois.  i have two younger brothers.  i was raised by my mom.,work - car,<start>
+2157,0,"hello , how are you today ?",,,
+2158,1,user: i'll be fine after i finish this expensive glass of vino, i enjoy manicures.  i own a cute puppy.  i enjoy sipping a lavish bottle of chardonnay.  my parents gave me a lot of money so i do not work.,vino - slang - bill - restaurant,slang
+2158,0,"that is a really expensive dinner, is it delicious .",,,
+2158,1,: the waiter was very polite., i enjoy manicures.  i own a cute puppy.  i enjoy sipping a lavish bottle of chardonnay.  my parents gave me a lot of money so i do not work.,vino - slang - bill - restaurant,bill
+2158,0,the bill was $200. i was shocked.,,,
+2158,1,: yes the do bill a lot., i enjoy manicures.  i own a cute puppy.  i enjoy sipping a lavish bottle of chardonnay.  my parents gave me a lot of money so i do not work.,vino - slang - bill - restaurant,restaurant
+2158,0,why did you eat in a restaurant?,,,
+2159,1,user: hi ! i love yellow . it is a happy color !," helping others is my forte.  my favorite candy is brown , sugary , confections.  twins seem to run in my family.  i'm basically addicted to caffeine.",happy - ready - go - restaurant,ready
+2159,0,"do you know what it means when you are ready for something, you're completely ready for it?",,,
+2159,1,: yes i have been very ready for my trip.," helping others is my forte.  my favorite candy is brown , sugary , confections.  twins seem to run in my family.  i'm basically addicted to caffeine.",happy - ready - go - restaurant,go
+2159,0,"you should go, its one of my favorite restaurants.",,,
+2159,1,": im so ready, i will book right away."," helping others is my forte.  my favorite candy is brown , sugary , confections.  twins seem to run in my family.  i'm basically addicted to caffeine.",happy - ready - go - restaurant,restaurant
+2159,0,lets go to the restaurant.,,,
+2160,1,user: i'm doing good !, my parents had many children.  i am a realtor as well as a waitress.  i am hopeful for marriage.  i'm very loyal.,weekend - pay - go - restaurant,pay
+2160,0,how much do you earn priya?,,,
+2160,1,: pay is not the main reason i love working weekends., my parents had many children.  i am a realtor as well as a waitress.  i am hopeful for marriage.  i'm very loyal.,weekend - pay - go - restaurant,go
+2160,0,"i know, but do you earn enough to have the time off? you should work weekends more.",,,
+2160,1,: i could go on to more time off., my parents had many children.  i am a realtor as well as a waitress.  i am hopeful for marriage.  i'm very loyal.,weekend - pay - go - restaurant,restaurant
+2160,0,what kind of restaurant do you love?,,,
+2161,1,user: i like playing video games, i like to go to school.  i love interacting on my console.  i'm the baby of all my relatives.  i like to eat things fro kfc.  i'm a night owl.,video - move - counter - restaurant,move
+2161,0,what kind of games do you play?,,,
+2161,1,": i like basketball, i play a lot of it.", i like to go to school.  i love interacting on my console.  i'm the baby of all my relatives.  i like to eat things fro kfc.  i'm a night owl.,video - move - counter - restaurant,counter
+2161,0,you should get a game counter and make your own.,,,
+2161,1,: my friend has a game counter for a racing game., i like to go to school.  i love interacting on my console.  i'm the baby of all my relatives.  i like to eat things fro kfc.  i'm a night owl.,video - move - counter - restaurant,restaurant
+2161,0,"i hate fast food, but sometimes i can't resist it. would you like to be the counter operator one day?",,,
+2162,1,"user: hi , i'm ok tired as always tho", i don't feel very good about myself.  i like to eat.  i want a roofless car.  i never have any free time.,tired - sigh - out - restaurant,sigh
+2162,0,why do you sleep so much priya?,,,
+2162,1,: i just work a lot., i don't feel very good about myself.  i like to eat.  i want a roofless car.  i never have any free time.,tired - sigh - out - restaurant,out
+2162,0,"you should go out some time, why don't you eat some time in an out?",,,
+2162,1,: what are some out's nearby?, i don't feel very good about myself.  i like to eat.  i want a roofless car.  i never have any free time.,tired - sigh - out - restaurant,restaurant
+2162,0,"try this pizza place, it's good.",,,
+2163,1,user: wow you sound successful . i live by myself and drink too much ., i do not want a relationship.  i enjoy beer and wine.  i don't share my apartment with anyone else.  i spend a.,successful - pass - go - restaurant,pass
+2163,0,did you mean pass on your statement?,,,
+2163,1,: i meant pass on my statement., i do not want a relationship.  i enjoy beer and wine.  i don't share my apartment with anyone else.  i spend a.,successful - pass - go - restaurant,go
+2163,0,do you have a go pro?,,,
+2163,1,: i have a go pro., i do not want a relationship.  i enjoy beer and wine.  i don't share my apartment with anyone else.  i spend a.,successful - pass - go - restaurant,restaurant
+2163,0,you should visit a good restaurant and make a video of it.,,,
+2164,1,user: oh just kicked back and relaxing, i am making a scarf for my daughter.  i am a female in my 30s.  my husband loves me.  felines are very dear to my heart.  i have a lot of kids.,kick - dribble - water - restaurant,dribble
+2164,0,i think women who like to kick and dribble in front of the tv makes the family laugh.,,,
+2164,1,: i do not dribble in front of the tv., i am making a scarf for my daughter.  i am a female in my 30s.  my husband loves me.  felines are very dear to my heart.  i have a lot of kids.,kick - dribble - water - restaurant,water
+2164,0,you should get a water with your food.,,,
+2164,1,": i do eat at the restaurant, but love the way water is served.", i am making a scarf for my daughter.  i am a female in my 30s.  my husband loves me.  felines are very dear to my heart.  i have a lot of kids.,kick - dribble - water - restaurant,restaurant
+2164,0,"do you have a favorite restaurant in your town, where do you order your food?",,,
+2165,1,user: i have 3 of them ., i keep many kittens.  i want to be a ballerina.  i've no siblings.  the color of my locks in not natural.  i travel to other places around the world.,ok - pousser - drive - travel,pousser
+2165,0,do you have any pets in your family?,,,
+2165,1,: i have a dog., i keep many kittens.  i want to be a ballerina.  i've no siblings.  the color of my locks in not natural.  i travel to other places around the world.,ok - pousser - drive - travel,drive
+2165,0,do you have a car?,,,
+2165,1,: no im too lazy to drive., i keep many kittens.  i want to be a ballerina.  i've no siblings.  the color of my locks in not natural.  i travel to other places around the world.,ok - pousser - drive - travel,travel
+2165,0,you should take a trip to europe. i can help you get a car.,,,
+2166,1,user: good thanks ., i like playing x box.  my lox are quite lengthy.  i really don't enjoy preparing food for myself.  one parent resides in my home.,thank - find - out - restaurant,find
+2166,0,can you find me cheap airline tickets priya?,,,
+2166,1,": yes, i do know where they are.", i like playing x box.  my lox are quite lengthy.  i really don't enjoy preparing food for myself.  one parent resides in my home.,thank - find - out - restaurant,out
+2166,0,"cool, can you find out where the cheapest flight is too?",,,
+2166,1,": okay, can we leave it on out to find cheaper options?", i like playing x box.  my lox are quite lengthy.  i really don't enjoy preparing food for myself.  one parent resides in my home.,thank - find - out - restaurant,restaurant
+2166,0,"you always put me to a restaurant that is not the cheapest one you know, but the best one!",,,
+2167,1,user: great just finished listening to my favorite rap mixtape !, i love pop music.  i like hip hop.  playing a musical instrument is one of my past times.  i go to restaurants frequently.  i like food.,rap - type - click - camera,type
+2167,0,you should share your favorite rap mixtape.,,,
+2167,1,": ive been thinking about the topic ""type of sound"".", i love pop music.  i like hip hop.  playing a musical instrument is one of my past times.  i go to restaurants frequently.  i like food.,rap - type - click - camera,click
+2167,0,"ive been thinking about ""how do you click your mouse"".",,,
+2167,1,: i click my mouse with my right hand., i love pop music.  i like hip hop.  playing a musical instrument is one of my past times.  i go to restaurants frequently.  i like food.,rap - type - click - camera,camera
+2167,0,do you have a camera? what type of camera do you like?,,,
+2168,1,user: i've family i want to meet someday ., i don't know my real mother.  there are many brothers i still haven't met.  i was a teenager when i first saw my mom.  i love santa time.,meet - fit - go - restaurant,fit
+2168,0,do you fit in with society?,,,
+2168,1,: i do not fit in., i don't know my real mother.  there are many brothers i still haven't met.  i was a teenager when i first saw my mom.  i love santa time.,meet - fit - go - restaurant,go
+2168,0,do you go out?,,,
+2168,1,: every time i go out i end up getting in an argument with someone., i don't know my real mother.  there are many brothers i still haven't met.  i was a teenager when i first saw my mom.  i love santa time.,meet - fit - go - restaurant,restaurant
+2168,0,you must love eating!,,,
+2169,1,"user: hi , i am very single . i was hoping to meet someone tonight .", sometimes i just need to unwind.  i like cool and subdued colors.  i don't have a girlfriend.  i can spend hours and hours scribing in my notebooks.,meet - double - note - laptop,double
+2169,0,ive been told that the double is an awesome laptop.,,,
+2169,1,: you should get a double because you could write on it a lot., sometimes i just need to unwind.  i like cool and subdued colors.  i don't have a girlfriend.  i can spend hours and hours scribing in my notebooks.,meet - double - note - laptop,note
+2169,0,i really like the note.,,,
+2169,1,: why do you like the note? what do you usually jot down on it., sometimes i just need to unwind.  i like cool and subdued colors.  i don't have a girlfriend.  i can spend hours and hours scribing in my notebooks.,meet - double - note - laptop,laptop
+2169,0,you can write notes on the laptop. it could be an awesome device.,,,
+2170,1,user: i moved to sweden last month ., i like walking on ice.  i am forgetful.  i like seafood.  i just got a house in europe.,last - rank - top - laptop,rank
+2170,0,"i am rank #3 in the department, how did you rank?",,,
+2170,1,: i am rank #5., i like walking on ice.  i am forgetful.  i like seafood.  i just got a house in europe.,last - rank - top - laptop,top
+2170,0,i think you ranked top.,,,
+2170,1,: i am top., i like walking on ice.  i am forgetful.  i like seafood.  i just got a house in europe.,last - rank - top - laptop,laptop
+2170,0,you should take a look at the top laptops.,,,
+2171,1,user: pretty good . just taking a break from playing some classic super nintendo, i like electronic entertainment.  i enjoy taking my rifle into the woods to find deer.  i do not eat a lot of vegetables.  i am an animal person.,classic - style - design - clothes,style
+2171,0,"is your favorite style right now classic, or something else?",,,
+2171,1,: my favorite style is classic., i like electronic entertainment.  i enjoy taking my rifle into the woods to find deer.  i do not eat a lot of vegetables.  i am an animal person.,classic - style - design - clothes,design
+2171,0,i would say that you should follow designer style.,,,
+2171,1,: this design is very cool., i like electronic entertainment.  i enjoy taking my rifle into the woods to find deer.  i do not eat a lot of vegetables.  i am an animal person.,classic - style - design - clothes,clothes
+2171,0,do you own the clothes you are wearing now?,,,
+2172,1,user: no but i wish i did . i'd like to eat some while i paint, i like living by the water.  i enjoy art.  i work in computer art animation.  i'm on the lookout for a new partner.,wish - bid - go - travel,bid
+2172,0,i wish i was bidding for a new sofa. i have a big wish i want to make come true.,,,
+2172,1,: bid is an online auction. you use the internet to bid against other people., i like living by the water.  i enjoy art.  i work in computer art animation.  i'm on the lookout for a new partner.,wish - bid - go - travel,go
+2172,0,i bid but i could not succeed.,,,
+2172,1,": you failed for trying. well, it was worth a try at least.", i like living by the water.  i enjoy art.  i work in computer art animation.  i'm on the lookout for a new partner.,wish - bid - go - travel,travel
+2172,0,yo should travel to a furniture factory and see how its made.,,,
+2173,1,"user: getting ready to go visit mom and dad ,", my canines stay at my residence alone when i travel to see family.  i raise animals.  i cant get a pet because of allergies.  my sweet puppy is my favorite animal.,mom - home - go - travel,home
+2173,0,"you should stay home and see your pets, they miss you.",,,
+2173,1,": i love going to mom and dad house, i enjoy the family time.", my canines stay at my residence alone when i travel to see family.  i raise animals.  i cant get a pet because of allergies.  my sweet puppy is my favorite animal.,mom - home - go - travel,go
+2173,0,do you enjoy traveling?,,,
+2173,1,: i love to travel., my canines stay at my residence alone when i travel to see family.  i raise animals.  i cant get a pet because of allergies.  my sweet puppy is my favorite animal.,mom - home - go - travel,travel
+2173,0,do you love traveling?,,,
+2174,1,"user: neither , i prefer potato chips"," on saturdays and sundays , i spend the day in the forest with a local birding group.  i love cola products.  i like scary movies.  i love books so much.",chip - computer - cybershopping - shopping,computer
+2174,0,what model computer do you have?,,,
+2174,1,: i has assembled a gaming computer 2 years ago.," on saturdays and sundays , i spend the day in the forest with a local birding group.  i love cola products.  i like scary movies.  i love books so much.",chip - computer - cybershopping - shopping,cybershopping
+2174,0,"i was thinking, where would i go cybershopping on sat or sunday?",,,
+2174,1,: i will never understand why people would go cybershopping when they have the web.," on saturdays and sundays , i spend the day in the forest with a local birding group.  i love cola products.  i like scary movies.  i love books so much.",chip - computer - cybershopping - shopping,shopping
+2174,0,it is very rewarding to shop online and save a lot of money.,,,
+2175,1,"user: my dog recently died , i feel so incomplete", i have several boys and a man.  i turn things into art.  my mom showed me how to love life.  i have suffered a loss recently.  i have my own home with lots of trees around it.,incomplete - botany - russet - clothes,botany
+2175,0,can you explain how to go from an incomplete to a complete statement?,,,
+2175,1,: if we are missing any information then botany is the closest option, i have several boys and a man.  i turn things into art.  my mom showed me how to love life.  i have suffered a loss recently.  i have my own home with lots of trees around it.,incomplete - botany - russet - clothes,russet
+2175,0,a russet apple is a perfect example. you have botany because you have a science background.,,,
+2175,1,: russet apples are really good tasting. it is like red delicious apple, i have several boys and a man.  i turn things into art.  my mom showed me how to love life.  i have suffered a loss recently.  i have my own home with lots of trees around it.,incomplete - botany - russet - clothes,clothes
+2175,0,you can't be completely wrong if you have a valid explanation. i will get you a russet shirt.,,,
+2176,1,user: i don't actually mind the winter but i do really like spring," sometimes , i find myself fantasizing at inopportune moments.  i do not pick the right people.  i can be sluggish at times.  i do not take school too seriously.",spring - race - travel - shopping,race
+2176,0,for some reason you should take a race this spring.,,,
+2176,1,: ive never been on a race so i'm not sure what you are talking about.," sometimes , i find myself fantasizing at inopportune moments.  i do not pick the right people.  i can be sluggish at times.  i do not take school too seriously.",spring - race - travel - shopping,travel
+2176,0,"if you do decide to race, you should go with a travel buddy.",,,
+2176,1,: i need more time to decide if i'm going on a long journey or a short trip.," sometimes , i find myself fantasizing at inopportune moments.  i do not pick the right people.  i can be sluggish at times.  i do not take school too seriously.",spring - race - travel - shopping,shopping
+2176,0,you also need to shop for your race trip if you decide to go.,,,
+2177,1,user: i am great ! just hanging with my kitties ., i use a uni bike.  i have a army of kittens.  trying to pick my major is hard.  i am a bag boy.,kitty - bed - go - travel,bed
+2177,0,i like to sleep with them sometimes.,,,
+2177,1,": i try to sleep on a bed, but they take over the bed first.", i use a uni bike.  i have a army of kittens.  trying to pick my major is hard.  i am a bag boy.,kitty - bed - go - travel,go
+2177,0,did you know you can stay in bed with your kitties?,,,
+2177,1,": i love to travel, and im always getting in some kinda trouble.", i use a uni bike.  i have a army of kittens.  trying to pick my major is hard.  i am a bag boy.,kitty - bed - go - travel,travel
+2177,0,you should travel to places where there is fresh air and nature.,,,
+2178,1,user: yoooooooooooooooooooooooooo i totally chilling my dude shred or die !, i have a dyed head.  people find me to be off.  i like to hit the board.  my boss said i needed to step up my game.,chill - stone - go - restaurant,stone
+2178,0,did you know you could chill out to some cool music while playing some awesome games?,,,
+2178,1,: what about that cool stone?, i have a dyed head.  people find me to be off.  i like to hit the board.  my boss said i needed to step up my game.,chill - stone - go - restaurant,go
+2178,0,"if you haven't tried it yet, go for some gook, its worth it.",,,
+2178,1,: is this the final game?, i have a dyed head.  people find me to be off.  i like to hit the board.  my boss said i needed to step up my game.,chill - stone - go - restaurant,restaurant
+2178,0,where are you going to eat go after this?,,,
+2179,1,user: i'm too shy to go to classes like karate or book clubs .," lina , my greyhound , is a source of constant affection.  i do not drink.  i'm an introvert.  i am happy a lot of the time.",club - teetotum - top - laptop,teetotum
+2179,0,you can get together with your friends and have a weekly teetotum session.,,,
+2179,1,": i have a teetotum, and it is very fun."," lina , my greyhound , is a source of constant affection.  i do not drink.  i'm an introvert.  i am happy a lot of the time.",club - teetotum - top - laptop,top
+2179,0,"you should have a top also, it will help you get some exercise.",,,
+2179,1,: i do not have a top though.," lina , my greyhound , is a source of constant affection.  i do not drink.  i'm an introvert.  i am happy a lot of the time.",club - teetotum - top - laptop,laptop
+2179,0,you should also get a laptop.,,,
+1945,1,"user: i do , but what i really like is shopping .", my favorite artist is a pop singer.  i own an older model car.  my job is at nordstrom.  buying new items takes up a lot of hours.,shop - windows - car,windows
+1945,0,"you should buy a new laptop aswell then, i can get you some coupons for that.",,,
+1945,1,": i do like windowss, i am a huge windows fan.", my favorite artist is a pop singer.  i own an older model car.  my job is at nordstrom.  buying new items takes up a lot of hours.,shop - windows - car,car
+1945,0,do you know what a car stereo is.,,,
+1946,1,user: hey bob ., i only can do exaggerated emotions.  i have to drink dairy free milk.  i'm dying.  i like boy bands.,bob - dollar - shopping,dollar
+1946,0,there are good deals on groceries at the grocery store i recommend you go.,,,
+1946,1,": you should shop at the dollar store, it's where the deals are at.", i only can do exaggerated emotions.  i have to drink dairy free milk.  i'm dying.  i like boy bands.,bob - dollar - shopping,shopping
+1946,0,"you should go shopping at the store, i can get you great deals. what are you looking for?",,,
+1947,1,user: sure . i wish it were winter . the sun really hurts my blue eyes ., i love to perform songs of a specific genre.  i don't have brown peepers.  i like the colder months.  i like hoops.  i enjoy short sleeps.,hurt - top - laptop,top
+1947,0,i can relate to the top.,,,
+1947,1,: i had a top once. it was for a few days., i love to perform songs of a specific genre.  i don't have brown peepers.  i like the colder months.  i like hoops.  i enjoy short sleeps.,hurt - top - laptop,laptop
+1947,0,what do you think about laptops?,,,
+1948,1,"user: hi , i am good .", somebody put a ring on it.  i fly around the country for work.  i love my clan.  i enjoy making things artistically.  being a determined lady gets me far in life.,single - petal - travel,petal
+1948,0,"i would like to share something with you. petals and flowers are beautiful, and a very important part of our daily lives.",,,
+1948,1,: i have a lot of petals i buy everyday from the market., somebody put a ring on it.  i fly around the country for work.  i love my clan.  i enjoy making things artistically.  being a determined lady gets me far in life.,single - petal - travel,travel
+1948,0,you should take lots of petals with you for your next trip.,,,
+1949,1,user: i am doing great . working on my novel ., i hate being poor.  i spend a lot of time writing.  i don't like working.  i'm very creative.,work - go - travel,go
+1949,0,"i should go on a trip sometime, i have been thinking about it.",,,
+1949,1,": i am not going to lie, im not a lover of love.", i hate being poor.  i spend a lot of time writing.  i don't like working.  i'm very creative.,work - go - travel,travel
+1949,0,me too i want to go to space.,,,
+1950,1,user: i play video games more than going out, i like to play xbox.  i should not have as many snacks.  i journal as often as i can.  my favorite bands are from south korea.,video - computing - laptop,computing
+1950,0,"i do not know how much you know about these things, but computing is a big business these days.",,,
+1950,1,": i do know a bit about computers, i can tell you what a cpu is.", i like to play xbox.  i should not have as many snacks.  i journal as often as i can.  my favorite bands are from south korea.,video - computing - laptop,laptop
+1950,0,"you should use a laptop, why didn't you?",,,
+1951,1,user: i really like trucks an i hate vegetables ., i like american made cars.  i avoid eating broccoli.  i love being with loved ones.  i enjoy clothing with logos on it.,like - knitting - clothes,knitting
+1951,0,do you have any knitting projects you are currently working on?,,,
+1951,1,": i have knitted socks and a pair of socks. i wish to knit a sweater, but i don't know how to start.", i like american made cars.  i avoid eating broccoli.  i love being with loved ones.  i enjoy clothing with logos on it.,like - knitting - clothes,clothes
+1951,0,maybe you should get some clothes with your knitting project.,,,
+1952,1,user: i am ok i just wish i could get away to the beach how about you, i love eating at my residence.  i love listening to the radio.  i love teal and turquoise.  i'm obsessed with nerdy shows.  i love the shore.,beach - bar - restaurant,bar
+1952,0,you should go to a beach bar and enjoy some ice cream and beer with some friends.,,,
+1952,1,: what bar near you?, i love eating at my residence.  i love listening to the radio.  i love teal and turquoise.  i'm obsessed with nerdy shows.  i love the shore.,beach - bar - restaurant,restaurant
+1952,0,"go to a nice restaurant, i can help you choose one.",,,
+1953,1,"user: i take care of the sick , as a nurse .", i like the theatrical showing of richard gere and julia roberts.  i rely a lot on technology.  i don't eat meat.  i have a great imagination.  i help people in the medical profession.,hungry - around - travel,around
+1953,0,"do you eat out a lot then, or only at home?",,,
+1953,1,": im always around my house, i have a lot to eat.", i like the theatrical showing of richard gere and julia roberts.  i rely a lot on technology.  i don't eat meat.  i have a great imagination.  i help people in the medical profession.,hungry - around - travel,travel
+1953,0,you should go on a trip. the mountains are beautiful.,,,
+1954,1,user: i am good ., i want to begin my own company.  how the country is ran is something that i dabble in.  i bought a chevy at the dealer the other day.  i like being with the people i know best.,good - fun - car,fun
+1954,0,"but you should consider a more interesting topic, fun should be more like a topic.",,,
+1954,1,": fun is okay, but not as interesting as what i am planning to do.", i want to begin my own company.  how the country is ran is something that i dabble in.  i bought a chevy at the dealer the other day.  i like being with the people i know best.,good - fun - car,car
+1954,0,is your car more interesting than your business?,,,
+1955,1,"user: i'm fine , just up grading papers", i like children.  being a parent is a core part of my existence.  i am a widow.  one day i hope i can be a journalist.  i am a social person.,grade - level - car,level
+1955,0,i've heard that grades have nothing to do with your real ability.,,,
+1955,1,": you should level up, i can help you with some tips.", i like children.  being a parent is a core part of my existence.  i am a widow.  one day i hope i can be a journalist.  i am a social person.,grade - level - car,car
+1955,0,you want to buy a fancy sports car then?,,,
+1956,1,user: hi i just had my 7th birthday yesterday, i'm in third grade.  i want to be like diego maradona.  i am not as smart as i thought.  i've great friends.,military - rv - travel,rv
+1956,0,do you like traveling in an RV?,,,
+1956,1,": i like to travel on my rv, it is the perfect size to pack my stuff for the trip.", i'm in third grade.  i want to be like diego maradona.  i am not as smart as i thought.  i've great friends.,military - rv - travel,travel
+1956,0,do you pack your luggage carefully or just throw it into the RV?,,,
+1957,1,user: i'm fine and you, i love italian cuisine.  my mother raised me.  my mom is employed as a financial institution.  i take care of lost pets.  i am very good at speaking different languages.,fine - salt - restaurant,salt
+1957,0,did you know salted and stir fried foods are really healthy and tasty.,,,
+1957,1,": i barely get time to cook, and salting vegetables takes time.", i love italian cuisine.  my mother raised me.  my mom is employed as a financial institution.  i take care of lost pets.  i am very good at speaking different languages.,fine - salt - restaurant,restaurant
+1957,0,i'm just fine. my name is priya.,,,
+1958,1,user: hi there . i am so so today unfortunately . it is one of the bad days," i used to be enlisted in the army.  i've a gym membership.  a few months ago , i purchased an rv.  i like watching the nfl.  i am a professional freight driver.",today - phone - clothes,phone
+1958,0,i do not have a phone. i would rather go outside and enjoy nature. tell me more about your life?,,,
+1958,1,": i just purchased a iphone a few days ago. it is fun, but iphone is not something i can take everywhere."," i used to be enlisted in the army.  i've a gym membership.  a few months ago , i purchased an rv.  i like watching the nfl.  i am a professional freight driver.",today - phone - clothes,clothes
+1958,0,"you should get a smart phone instead. that way you can store all the information about yourself in your phone like your medical records, personal information, photos.",,,
+1959,1,"user: how , is it a technological museum", i enjoy computers and phones.  i'm selfish.  jumping out of an airplane would be a thrill.  i don't think i could have romantic feelings for a person smaller than myself.  the pitbull i've weighs twice as much as the kitten in the house.,museum - tour - travel,tour
+1959,0,the tour should take you on an exciting trek throughout your favorite museums.,,,
+1959,1,: i am not familiar with a lot of the museums in your area., i enjoy computers and phones.  i'm selfish.  jumping out of an airplane would be a thrill.  i don't think i could have romantic feelings for a person smaller than myself.  the pitbull i've weighs twice as much as the kitten in the house.,museum - tour - travel,travel
+1959,0,you must be excited now that you have your tour planned out. who are you going with?,,,
+1960,1,user: i am feeding my cat s, the color of my locks in not natural.  i travel to other places around the world.  i want to be a ballerina.  i keep many kittens.  i've no siblings.,cat - way - travel,way
+1960,0,i would not be in the mood to watch a ballerina film. but i love to travel. do you get to travel a lot priya?,,,
+1960,1,": not really, i just go up the nearest hill in my town.", the color of my locks in not natural.  i travel to other places around the world.  i want to be a ballerina.  i keep many kittens.  i've no siblings.,cat - way - travel,travel
+1960,0,well do you get to travel a lot?,,,
+1961,1,"user: i am good , just watching movies with my family", my husband and i enjoy streaming tv online.  i'm into creating modeling with materials.  i like to listen to heavy metal.  pizza is my favorite thing to eat.  my dad is a great businessman.,good - business - restaurant,business
+1961,0,you should open up a business for your dad.,,,
+1961,1,": i am just starting to study business, but i have thought about it.", my husband and i enjoy streaming tv online.  i'm into creating modeling with materials.  i like to listen to heavy metal.  pizza is my favorite thing to eat.  my dad is a great businessman.,good - business - restaurant,restaurant
+1961,0,you could become a waiter.,,,
+1962,1,user: hi bob i am also bob and i work all day," i have raw talent for this.  i work as a clerk.  i began instruction on shooting bow and arrow , and it is fun.  i want to be a pro athlete.",bob - dollar - shopping,dollar
+1962,0,do you enjoy shopping with the dollar?,,,
+1962,1,": dollar is always handy, it is the easiest money to carry."," i have raw talent for this.  i work as a clerk.  i began instruction on shooting bow and arrow , and it is fun.  i want to be a pro athlete.",bob - dollar - shopping,shopping
+1962,0,do you like shopping?,,,
+1963,1,user: i am doing some work on my art ., mozart is my muse.  last month i got involved with doing all things creative.  i like to set things up.  i am artistic.,work - department - clothes,department
+1963,0,you should design some clothes for a department store.,,,
+1963,1,": what kind of clothes, you should design for me?", mozart is my muse.  last month i got involved with doing all things creative.  i like to set things up.  i am artistic.,work - department - clothes,clothes
+1963,0,you should design a brand new line of clothes for a department store.,,,
+1964,1,user: hi how are you today, i enjoy visiting places that are mexican culture.  i do not like burritos.  i enjoy snow.  my spouse hates us.  cheese is my favorite snack food.,today - phone - clothes,phone
+1964,0,"i am ok, how about you?",,,
+1964,1,": i want to be better, how about you?", i enjoy visiting places that are mexican culture.  i do not like burritos.  i enjoy snow.  my spouse hates us.  cheese is my favorite snack food.,today - phone - clothes,clothes
+1964,0,where do you shop for clothes?,,,
+1965,1,user: i'm a columnist for the new york times ., i like to learn new things.  i have a spouse.  my sister has lots of kids.  i'm in nyc.  i am a journalist.,york - city - restaurant,city
+1965,0,do you like living in the city?,,,
+1965,1,": i think its fun to live in the city, i get to see people from different walks of life every day.", i like to learn new things.  i have a spouse.  my sister has lots of kids.  i'm in nyc.  i am a journalist.,york - city - restaurant,restaurant
+1965,0,i hear you can eat really good and inexpensive here. do you have any favorite restaurant in the city?,,,
+1966,1,"user: four is our lucky number , i also have 4 pets . but dogs .", i like to go to the pool.  i enjoy making food.  i am a huge dog lover !.  i only have nine digits all together on my feet.  colored breakfast foods aren't my favorite.,pet - house - camera,house
+1966,0,a house is a good way to give your pet a warm and safe place to live.,,,
+1966,1,: the only problem with houses is that they are prone to breakage. the camera we use for our home is our first camera., i like to go to the pool.  i enjoy making food.  i am a huge dog lover !.  i only have nine digits all together on my feet.  colored breakfast foods aren't my favorite.,pet - house - camera,camera
+1966,0,what brand of camera do you have?,,,
+1967,1,"user: i like to play soccer , i love games of throne and a vegan", i really enjoy physical sports.  i enjoy hbo originals.  my sibling was in the military.  i do not eat meat.  i really like mushy foods.,throne - ease - travel,ease
+1967,0,"you can also have a very easy experience with cushions, i bet you can make it happen.",,,
+1967,1,: i like to work and play., i really enjoy physical sports.  i enjoy hbo originals.  my sibling was in the military.  i do not eat meat.  i really like mushy foods.,throne - ease - travel,travel
+1967,0,do you think traveling can really change your life?,,,
+1968,1,user: great ! until tomorrow when i've to go back to work . boring ., i recently became a cpa.  i like mr happy.  i like going for a run.  i am one of those people that have more than one dog.  the cops tend to watch me closer than others.,boring - go - restaurant,go
+1968,0,go and have some fun with your life!,,,
+1968,1,: what are your plans for this evening?, i recently became a cpa.  i like mr happy.  i like going for a run.  i am one of those people that have more than one dog.  the cops tend to watch me closer than others.,boring - go - restaurant,restaurant
+1968,0,what restaurant do you suggest visiting?,,,
+1969,1,user: you could look at are fairy tales to answer that," i enjoy nature.  i love dogs.  i give credence to made up stories , choosing to accept that there is truth within them.  i come from a lower class household.  i like healthy activities.",tale - ago - travel,ago
+1969,0,did you hear about the recent tale about the woman who gave birth?,,,
+1969,1,": i did not, could you tell me more?"," i enjoy nature.  i love dogs.  i give credence to made up stories , choosing to accept that there is truth within them.  i come from a lower class household.  i like healthy activities.",tale - ago - travel,travel
+1969,0,the fairy tale begins here,,,
+1970,1,user: hello mine is sam for short, i would like to have kids one day.  not long ago i was married but no longer.  i work in the kids section at the local library.  i am very reserved and timid.  i've to put in my contacts every morning.,mine - price - shopping,price
+1970,0,you have low priced contacts in?,,,
+1970,1,": yes, cheap ones.", i would like to have kids one day.  not long ago i was married but no longer.  i work in the kids section at the local library.  i am very reserved and timid.  i've to put in my contacts every morning.,mine - price - shopping,shopping
+1970,0,do you know if there are any shopping centers nearby?,,,
+1971,1,user: not much ! just got back from taking my dogs out, i enjoy the water.  i'm not a cat person.  i like both red and blue.  i've a house.  i like rock music.,take - go - restaurant,go
+1971,0,you should go to a restaurant.,,,
+1971,1,: you should go to a restaurant., i enjoy the water.  i'm not a cat person.  i like both red and blue.  i've a house.  i like rock music.,take - go - restaurant,restaurant
+1971,0,you should go to a restaurant.,,,
+1972,1,user: i am good . just getting in from a nature walk with my kids and pets ., i am a parent to 2 toddlers.  i am 30.  i have no job.  i go walking with my kids outside.  we own several dogs.,kid - kite - travel,kite
+1972,0,you should go on a kite trip.,,,
+1972,1,: i cannot go kiteing alone. it is too dangerous., i am a parent to 2 toddlers.  i am 30.  i have no job.  i go walking with my kids outside.  we own several dogs.,kid - kite - travel,travel
+1972,0,i have been to the bahamas. its a really beautiful place.,,,
+1973,1,"user: hi i'm rodney , or rod for short . i'm great just ate dessert .", my wife is a model.  i wish my kids behaved better.  my housekeeper is dull.  rich treats after a meal are one of my downfalls.  i make a good living.,dessert - food - restaurant,food
+1973,0,what kind of food do you like most?,,,
+1973,1,: i like all kinds of food., my wife is a model.  i wish my kids behaved better.  my housekeeper is dull.  rich treats after a meal are one of my downfalls.  i make a good living.,dessert - food - restaurant,restaurant
+1973,0,can you recommend a restaurant with good food?,,,
+1974,1,"user: no , tell me about it .", i love japanese cuisine.  i watch a television sitcom starring a group of people close to one another.  i am a ceo.  i own a vacation home for part of the year in cancun.,tell - order - restaurant,order
+1974,0,"i love ordering take out food, it makes for a good time.",,,
+1974,1,": same here, i love orderiing take out.", i love japanese cuisine.  i watch a television sitcom starring a group of people close to one another.  i am a ceo.  i own a vacation home for part of the year in cancun.,tell - order - restaurant,restaurant
+1974,0,"there are these restaurants all over canada where you order take out, but with your friends.",,,
+1975,1,user: great so far . getting ready to get a pumpkin spice latte at starbucks, i could have swam in the olympics.  i drink magic bean juice every morning.  i have red flowers in my backyard.  i enjoy naming my pets random things.  my folks hooked up at a rock concert.,spice - device - car,device
+1975,0,so spice is for devices?,,,
+1975,1,: yeah spice for devices., i could have swam in the olympics.  i drink magic bean juice every morning.  i have red flowers in my backyard.  i enjoy naming my pets random things.  my folks hooked up at a rock concert.,spice - device - car,car
+1975,0,what kind of car do you have?,,,
+1976,1,"user: portland , maine is my home", i'm an east coaster.  i want to live with someone.  photography is my hobby.  i like to climb.  my career involves working to better the earth.,home - village - shopping,village
+1976,0,you should live in a village.,,,
+1976,1,: a village is a good place to develop as a person., i'm an east coaster.  i want to live with someone.  photography is my hobby.  i like to climb.  my career involves working to better the earth.,home - village - shopping,shopping
+1976,0,"portland, maine is my home.",,,
+1977,1,user: i've 1 dog who live on our farm ., i was in a bad wreck.  i work in agriculture.  i've my bachelors degree.  my four sisters are older than me.,farm - house - camera,house
+1977,0,do you think a farm and house can go together?,,,
+1977,1,: my family has a farm house., i was in a bad wreck.  i work in agriculture.  i've my bachelors degree.  my four sisters are older than me.,farm - house - camera,camera
+1977,0,i'm learning to speak japanese,,,
+1978,1,"user: hello , i am hungry to be honest .", i love spaghetti.  i reside in a large metropolis.  i visited europe in june.  i've a basic job.  i want to get in shape.,hungry - automobile - travel,automobile
+1978,0,"hey, i am going to be driving my car soon.",,,
+1978,1,": you should eat some food for cars, before you go out to drive.", i love spaghetti.  i reside in a large metropolis.  i visited europe in june.  i've a basic job.  i want to get in shape.,hungry - automobile - travel,travel
+1978,0,"i have an upcoming vacation, where am i going to go?",,,
+1979,1,user: i m good ., i hope to have powers to use for good in the future.  i cannot wait until i'm not 7 anymore.  i like to read a lot.  i am named after a cartoon fox.  i enjoy comic book heroes.,good - repair - travel,repair
+1979,0,you should buy your own computer and repair it.,,,
+1979,1,: im good at repairing my own computer., i hope to have powers to use for good in the future.  i cannot wait until i'm not 7 anymore.  i like to read a lot.  i am named after a cartoon fox.  i enjoy comic book heroes.,good - repair - travel,travel
+1979,0,would you like to travel to someplace exotic?,,,
+1980,1,user: hello . i'm studying a new dialect .," i've a proficiency for foreign communications and am brilliant.  i'm also a landlord.  i am an orphan.  i hated being taught education.  i work in the finance market , but on global scale.",dialect - kite - travel,kite
+1980,0,do you like kites?,,,
+1980,1,": yes, i am a kite maniac."," i've a proficiency for foreign communications and am brilliant.  i'm also a landlord.  i am an orphan.  i hated being taught education.  i work in the finance market , but on global scale.",dialect - kite - travel,travel
+1980,0,do you like traveling with kites?,,,
+1981,1,user: i work in a school, i enjoy exploring.  i work for the education system.  i like music.  give me a snickers bar any day.,work - place - travel,place
+1981,0,"oh, i have never been to a place or have been to a place where i have seen a place.",,,
+1981,1,: ive been to places like hong kong and manila, i enjoy exploring.  i work for the education system.  i like music.  give me a snickers bar any day.,work - place - travel,travel
+1981,0,"i want to travel someplace new, any ideas of where to go?",,,
+1982,1,user: i love dogs but i love fish better, my dad loved being in the kitchen.  he loves his job.  i learned about morals from him.  i enjoy fishing.,fish - compound - laptop,compound
+1982,0,let me make you a list then.,,,
+1982,1,: i have a big house., my dad loved being in the kitchen.  he loves his job.  i learned about morals from him.  i enjoy fishing.,fish - compound - laptop,laptop
+1982,0,you should buy a laptop with a bigger screen as your gaming will be more comfortable.,,,
+1983,1,user: i suppose i could do that ., i like to walk in the mountains.  i like to hike in the summers.  my career is in communications and advertising.  i enjoy walking the trails.  i tend to prefer older style things.,food - gastrotourist - travel,gastrotourist
+1983,0,"im not too familiar with this concept, but you could visit some nice places by doing gastrotour.",,,
+1983,1,: do you have a list of places you want the gastrotourism?, i like to walk in the mountains.  i like to hike in the summers.  my career is in communications and advertising.  i enjoy walking the trails.  i tend to prefer older style things.,food - gastrotourist - travel,travel
+1983,0,are you a fan of traveling.,,,
+1984,1,"user: oh cool names jane , and i've a boy", i am a mother of one.  i spend a lot of time outside.  i bake for a living.  i enjoy funny things.,boy - back - travel,back
+1984,0,my son jane is a boy.,,,
+1984,1,: did you hear about this great back massager, i am a mother of one.  i spend a lot of time outside.  i bake for a living.  i enjoy funny things.,boy - back - travel,travel
+1984,0,are you going on a vacation to japan and want a massage.,,,
+1985,1,"user: hi i'm john , dallas , tx"," hi there , people call me j and i come from texas.  i have a son and daughter.  we have one preteen and one teenage child.  i am an animal lover.  me and the lady help people.",dallas - city - car,city
+1985,0,"i heard that texas is the fourth largest city in the us, what do you think about that?",,,
+1985,1,": i like the city, it is a lot of fun."," hi there , people call me j and i come from texas.  i have a son and daughter.  we have one preteen and one teenage child.  i am an animal lover.  me and the lady help people.",dallas - city - car,car
+1985,0,have you ever thought about owning a car?,,,
+1986,1,"user: i am a bit of a workaholic , my job is my true love and also animals !", i do not eat meat.  i like to go to concerts.  my career is very important to me.  i have three great dogs.  i like to entertain people.,love - around - travel,around
+1986,0,what do you do for love then?,,,
+1986,1,: i am an animal lover., i do not eat meat.  i like to go to concerts.  my career is very important to me.  i have three great dogs.  i like to entertain people.,love - around - travel,travel
+1986,0,you should travel.,,,
+1987,1,user: talking with you silly playing nfl game, spending an hour or so beating a map in mario sounds fun.  i like to listen to music.  no one is with me.  i enjoy learning.  i've a lot of worldly knowledge about food.,silly - log - travel,log
+1987,0,do you like to play sports silly?,,,
+1987,1,: i do silly., spending an hour or so beating a map in mario sounds fun.  i like to listen to music.  no one is with me.  i enjoy learning.  i've a lot of worldly knowledge about food.,silly - log - travel,travel
+1987,0,have you been on a long trip?,,,
+1988,1,user: good morning ! that sounds fun ., i lived in the south.  i've a lot of plants in my house.  i was in the army.  learning is exciting to me.,sound - swash - travel,swash
+1988,0,"yes, sounds fun.",,,
+1988,1,: ive been doing my research., i lived in the south.  i've a lot of plants in my house.  i was in the army.  learning is exciting to me.,sound - swash - travel,travel
+1988,0,how much do you know about travel?,,,
+1989,1,"user: hey there ! well , i just started classes in college and work part time at the campus library", i'm studying biology.  i'm still deciding what to major in.  i like books.  soon where i live should change.  i travel by train.,part - go - travel,go
+1989,0,i should do more on the side.,,,
+1989,1,: you should do more on the side., i'm studying biology.  i'm still deciding what to major in.  i like books.  soon where i live should change.  i travel by train.,part - go - travel,travel
+1989,0,what do you do when you travel.,,,
+1990,1,user: good afternoon how are you, i enjoy exercising.  my car is not anything too fancy.  i'm a parent to 3 kids.  my name is a family name.  i live very close to my sister.,afternoon - party - clothes,party
+1990,0,have you ever had a party?,,,
+1990,1,": i like doing parties, i always have a blast.", i enjoy exercising.  my car is not anything too fancy.  i'm a parent to 3 kids.  my name is a family name.  i live very close to my sister.,afternoon - party - clothes,clothes
+1990,0,what sort of clothes do you like to wear?,,,
+1991,1,user: hi there i'm bob, i'm a father.  my social life is limited for the time being.  i'm having kids soon.  i've gotten sick at the start of everyday for a long time now.,bob - bounce - travel,bounce
+1991,0,have you ever done a bounce?,,,
+1991,1,": no, i have not done a bounce yet.", i'm a father.  my social life is limited for the time being.  i'm having kids soon.  i've gotten sick at the start of everyday for a long time now.,bob - bounce - travel,travel
+1991,0,it is my favorite way of traveling.,,,
+1992,1,"user: hello , i'm doing great . finished up my shift at the coffee shop ."," on saturdays , i visit art fairs.  i like to make new necklaces and earrings whenever i can.  i like reading religious books.  i have a job in a coffee shop.",shop - cafe - restaurant,cafe
+1992,0,"you should visit the cafe near you, they have great breakfast.",,,
+1992,1,": i like coffee, but i prefer tea."," on saturdays , i visit art fairs.  i like to make new necklaces and earrings whenever i can.  i like reading religious books.  i have a job in a coffee shop.",shop - cafe - restaurant,restaurant
+1992,0,"i was at the mall today, but had no luck.",,,
+1993,1,user: i am a little lonely today, i like bright light shades.  i like solitude.  my mom no longer lives.  i am very flexible.,little - measure - travel,measure
+1993,0,what are the types of measurements you make?,,,
+1993,1,": im not sure what you mean, are you asking about the measurements i take regularly?", i like bright light shades.  i like solitude.  my mom no longer lives.  i am very flexible.,little - measure - travel,travel
+1993,0,"you measure the distance you travel, how can you measure the distance between a little and a little?",,,
+1994,1,user: we don't have time for school . i have a boat to carve, my facial hair is very full.  i've random things i like to do.  it is freezing here.  i hunt water creatures from my canoe.,carve - rear - clothes,rear
+1994,0,do you have a boat too?,,,
+1994,1,": i have a boat, not a canoe.", my facial hair is very full.  i've random things i like to do.  it is freezing here.  i hunt water creatures from my canoe.,carve - rear - clothes,clothes
+1994,0,i have been thinking about getting new clothes.,,,
+1995,1,user: music season ! omg i love going to summer concerts, i love pop music.  i am a big fan of pop culture.  i love mosh pits.  i'm a musical person.,summer - bbq - restaurant,bbq
+1995,0,i enjoy bbq.,,,
+1995,1,: is it always crowded at bbq restaurants?, i love pop music.  i am a big fan of pop culture.  i love mosh pits.  i'm a musical person.,summer - bbq - restaurant,restaurant
+1995,0,i have been to a bbq restaurant. it was fun.,,,
+1996,1,user: i'm ok . enjoying a slice of pizza which is the best food ever !, i like italian cuisine best.  i am very knowledgeable on automobiles.  i enjoy cosplay.  i hate pets.,slice - pizza - restaurant,pizza
+1996,0,you should go to a restaurant and have some pizza. you'll love it.,,,
+1996,1,: what kind of pizza do you like?, i like italian cuisine best.  i am very knowledgeable on automobiles.  i enjoy cosplay.  i hate pets.,slice - pizza - restaurant,restaurant
+1996,0,what kind of pizza do you usually have?,,,
+1997,1,user: what type of food do you like, i eat at burger king five times a week.  i'm dependent on pills to stay alive.  heavy rock is my preference in music.  i'm athletic.,like - hut - restaurant,hut
+1997,0,i love my hut.,,,
+1997,1,: what kind of hut do you have?, i eat at burger king five times a week.  i'm dependent on pills to stay alive.  heavy rock is my preference in music.  i'm athletic.,like - hut - restaurant,restaurant
+1997,0,do you know that the hut in front of where you live has become a restaurant?,,,
+1998,1,user: good . i'm really mad at my coworker ., i hate the long run.  i only need to be with my partner.  i'm looking for a new spouse.  i don't like my job.,good - repair - travel,repair
+1998,0,do you know that good can mean bad?,,,
+1998,1,: i like to repair things., i hate the long run.  i only need to be with my partner.  i'm looking for a new spouse.  i don't like my job.,good - repair - travel,travel
+1998,0,are there any places you like to travel?,,,
+1999,1,"user: hello , i'm just about to go to the park with my daughter .", my pet and i go on long walks.  my family and i reside in a high rise.  i have a kid.  i want my bf to get a new job.,daughter - miss - travel,miss
+1999,0,"miss, i miss seeing you!",,,
+1999,1,": me too, i miss talking to you as much as i miss being able to see you.", my pet and i go on long walks.  my family and i reside in a high rise.  i have a kid.  i want my bf to get a new job.,daughter - miss - travel,travel
+1999,0,you should travel and see your friends.,,,
+2000,1,"user: hi , i had a hard day , now i am relaxing with some wine .", i do not like blue.  i am rather short.  i'm the youngest.  i like puppies.  i'm searching for a new career challenge.,day - holiday - travel,holiday
+2000,0,i really like the idea of the new holiday being a day off.,,,
+2000,1,: why do you like going on holidays?, i do not like blue.  i am rather short.  i'm the youngest.  i like puppies.  i'm searching for a new career challenge.,day - holiday - travel,travel
+2000,0,"i have been traveling since i was young, i would want to continue traveling.",,,
+2001,1,user: good but have to head to work soon ugh . being a bartender sucks, i've a night job in the service industry.  i'm from louisiana.  i really pound out notes on the keyboard.  it is known that i'm a good chef.,head - place - restaurant,place
+2001,0,what do you think of a place that is known to be good for drinks and dancing?,,,
+2001,1,: you should go to a gay place., i've a night job in the service industry.  i'm from louisiana.  i really pound out notes on the keyboard.  it is known that i'm a good chef.,head - place - restaurant,restaurant
+2001,0,you would not be the first person to tell me that. do you know any good gay restaurants around?,,,
+2002,1,user: systemed can't count, my favorite subject is psychology.  i'm trying to get a post college degree.  pepperoni is my favorite topping.  i like to try new foods.  i like to cook on the weekends.,count - order - restaurant,order
+2002,0,you can count your order by using this app.,,,
+2002,1,: you should try it, my favorite subject is psychology.  i'm trying to get a post college degree.  pepperoni is my favorite topping.  i like to try new foods.  i like to cook on the weekends.,count - order - restaurant,restaurant
+2002,0,have you ever been to an Indian restaurant?,,,
+2003,1,"user: hi there , i do not know what i'm doing", i enjoy jogging.  i love being a parent.  i have a long commute.  i love john hughes films.  desert is my favorite type of food.,know - remember - travel,remember
+2003,0,i can't remember much after a long time. i can always remember my kids birthday.,,,
+2003,1,": oh good, i need someone for memory tricks who can help me remember a long list of things.", i enjoy jogging.  i love being a parent.  i have a long commute.  i love john hughes films.  desert is my favorite type of food.,know - remember - travel,travel
+2003,0,"is it because you are always on the road, that you can't remember anything?",,,
+2004,1,user: hi . i just finished cooking some stew for my my restaurant . i can wait ., i enjoy staying in for meals.  i worked in my parents cafe.  i never hope to stop working no matter how old i become.  i work regular hours just like the guy next to me.  each month i help out at the homeless shelter.,cook - cheque - shopping,cheque
+2004,0,do you want a cheque made out to yourself personally?,,,
+2004,1,: this is a cheque made out to me personally., i enjoy staying in for meals.  i worked in my parents cafe.  i never hope to stop working no matter how old i become.  i work regular hours just like the guy next to me.  each month i help out at the homeless shelter.,cook - cheque - shopping,shopping
+2004,0,you should make a purchase at the store then.,,,
+2005,1,user: i'm cleaning my combat boots ., i like to mix clothing styles.  nirvana was one of my favorite bands.  i am travelling to italy with a friend.  i like to get my way using my looks.,combat - duel - clothes,duel
+2005,0,"maybe you should clean your combat boots, its been 10 long years since you had a duel.",,,
+2005,1,: why is that? do you know the story behind the duel?, i like to mix clothing styles.  nirvana was one of my favorite bands.  i am travelling to italy with a friend.  i like to get my way using my looks.,combat - duel - clothes,clothes
+2005,0,do you know what its like to have a duel?,,,
+2006,1,user: i'm also vegan and studying literature in france ., i enjoy art and working with crayons.  meat is disgusting.  i like mexican cuisine.  i am an avid reader.  we live by the eiffel tower.,literature - work - car,work
+2006,0,i like that you study literature. is it your favorite subject?,,,
+2006,1,: do you like to work at all?, i enjoy art and working with crayons.  meat is disgusting.  i like mexican cuisine.  i am an avid reader.  we live by the eiffel tower.,literature - work - car,car
+2006,0,"i have a car, i love going places with it.",,,
+2007,1,user: hi there stacy . i'm greg and i'm american, i like reading about the past.  i enjoy caring for pets.  my folks split.  my significant other and i'll be having a wedding.  i love to act.,greg - scottish - car,scottish
+2007,0,you should talk about your life with your friends scottish.,,,
+2007,1,": i like scottish, it's a lovely country", i like reading about the past.  i enjoy caring for pets.  my folks split.  my significant other and i'll be having a wedding.  i love to act.,greg - scottish - car,car
+2007,0,have you ever seen scotland on a car? it's really strange.,,,
+2008,1,"user: i'm good ! i do not play sports much , i like to stay home with my cats .", i don't have any pet dogs.  i am anemic.  the lead singer of maroon 5 is so fine.  i like to make salads.,play - piano - restaurant,piano
+2008,0,i like playing the piano. do you play the piano?,,,
+2008,1,": i play the piano often, but i have not been playing lately.", i don't have any pet dogs.  i am anemic.  the lead singer of maroon 5 is so fine.  i like to make salads.,play - piano - restaurant,restaurant
+2008,0,you should go to the piano man. you should play a song from him.,,,
+2009,1,"user: i do not like friends , i like myself", i like the sand and water.  one of my offspring is a quarterback.  i am a current resident in the united state.  my favorite food is italian.,like - keg - restaurant,keg
+2009,0,you should try to hang out with more people like that.,,,
+2009,1,: ive been in a relationship but we dont know what to do., i like the sand and water.  one of my offspring is a quarterback.  i am a current resident in the united state.  my favorite food is italian.,like - keg - restaurant,restaurant
+2009,0,have you ever been to an italian restaurant then?,,,
+2010,1,user: i am an art student . i like drawing best ., i am lonely.  i want to live in an imaginary planet.  i love reptiles.  i doodle when i'm sitting in my college lectures.,like - petal - travel,petal
+2010,0,you should have a petal.,,,
+2010,1,": ive already got a petal, she is a little lizard.", i am lonely.  i want to live in an imaginary planet.  i love reptiles.  i doodle when i'm sitting in my college lectures.,like - petal - travel,travel
+2010,0,have you ever been on a vacation?,,,
+2011,1,"user: hey ! not really , i'm craving some pizza !", i am fond of indigo.  i like italian food.  i will turn 21 this year.  i am an american.,crave - scottish - car,scottish
+2011,0,"did you know scottish people are very interesting, they have a very unique dialect.",,,
+2011,1,": hey, can i get this scottish thing?", i am fond of indigo.  i like italian food.  i will turn 21 this year.  i am an american.,crave - scottish - car,car
+2011,0,i dream of owning a car.,,,
+2012,1,user: i love magic mike because i love singing and playing video games ., channing tatum is the best actor !.  i like to sing.  i own an xbox one.  i can not imagine living in a small town again.,mike - nuts - car,nuts
+2012,0,i love nuts too!,,,
+2012,1,: oh and i love nuts too., channing tatum is the best actor !.  i like to sing.  i own an xbox one.  i can not imagine living in a small town again.,mike - nuts - car,car
+2012,0,are you a car nut?,,,
+2013,1,user: i cant sleep because i'm scared, i think posting pics on facebook of my everyday life is fun.  i believe it doesn't take extra effort to be nice.  i don't like fighting online.  i live in the lone star state.,scared - surprise - car,surprise
+2013,0,maybe you need something to surprise you.,,,
+2013,1,: i never get surprised., i think posting pics on facebook of my everyday life is fun.  i believe it doesn't take extra effort to be nice.  i don't like fighting online.  i live in the lone star state.,scared - surprise - car,car
+2013,0,how about when you buy a car?,,,
+2014,1,"user: yes , please . if they're chocolate .", i love basketball.  often times on valentines day i find myself eating the whole box of candy.  service in a friendly well known environment is something i enjoy.  i have a big family.  i like to be outside.,chocolate - compound - laptop,compound
+2014,0,"ive heard about compounds, but didn't know what they are.",,,
+2014,1,: this is compound., i love basketball.  often times on valentines day i find myself eating the whole box of candy.  service in a friendly well known environment is something i enjoy.  i have a big family.  i like to be outside.,chocolate - compound - laptop,laptop
+2014,0,why do you like laptops?,,,
+2015,1,user: i'm doing great ! i just got a job as a security guard !, i've a great wifi system.  i sometimes go for a stroll outside.  i protect for a living.  i'm really smart.,job - ride - travel,ride
+2015,0,you should go on a ride on a motorcycle.,,,
+2015,1,: i enjoy the speed of the ride., i've a great wifi system.  i sometimes go for a stroll outside.  i protect for a living.  i'm really smart.,job - ride - travel,travel
+2015,0,what kind of bike do you have?,,,
+2016,1,user: i enjoy taking care of my horse . her name is beauty, i live in a quiet neighborhood.  my dad is a priest.  i like to raise animals.  i like children.  my spouse is a member of the military.,take - transportation - car,transportation
+2016,0,do you like taking transportation?,,,
+2016,1,: i enjoy taking transportation when i go shopping. especially when i go to the farmer's market., i live in a quiet neighborhood.  my dad is a priest.  i like to raise animals.  i like children.  my spouse is a member of the military.,take - transportation - car,car
+2016,0,i think the car is a great mode of transportation.,,,
+2017,1,user: i get up early everyday and eat ice cream, i enjoy making other people laugh.  i am very ambitious.  i make sure i am promptly where i am supposed to be.  my employment is manufacturing goods.,eat - lurch - travel,lurch
+2017,0,do you like ice cream?,,,
+2017,1,": i love it, it is a perfect breakfast food", i enjoy making other people laugh.  i am very ambitious.  i make sure i am promptly where i am supposed to be.  my employment is manufacturing goods.,eat - lurch - travel,travel
+2017,0,have you ever visited a city in india?,,,
+2018,1,"user: me , i play pool .", i'm a teacher.  i'm good at geometry.  i'm going to be an author.  i want to go to egypt some day.  i like magic creatures.,pool - play - travel,play
+2018,0,so you play pool.,,,
+2018,1,: i will play it with you if you want., i'm a teacher.  i'm good at geometry.  i'm going to be an author.  i want to go to egypt some day.  i like magic creatures.,pool - play - travel,travel
+2018,0,"me too, i play sports in the summer.",,,
+2019,1,user: hi how are you today, i live with too many men.  i am good at video games.  i am pretty athletic.  my family is creative.,today - phone - clothes,phone
+2019,0,you have quite a few phone numbers.,,,
+2019,1,: i like to keep a list of phone numbers., i live with too many men.  i am good at video games.  i am pretty athletic.  my family is creative.,today - phone - clothes,clothes
+2019,0,so what are you wearing today?,,,
+2020,1,user: i'm doing good . just sat here enjoying some mac and cheese . its my favorite ., i like warm colors.  i like dancers.  i like to sit in front of the tv.  i love to eat pasta in a cheddar sauce.  my lox are golden.,mac - cup - restaurant,cup
+2020,0,"you should use a glass bowl for mac and cheese then, it will give a better flavor.",,,
+2020,1,: i'm enjoying my cup of coffee., i like warm colors.  i like dancers.  i like to sit in front of the tv.  i love to eat pasta in a cheddar sauce.  my lox are golden.,mac - cup - restaurant,restaurant
+2020,0,"you can put it in a restaurant. it will look attractive, but its still more expensive than eating at home.",,,
+2021,1,"user: i'm good ! i own my own company , so i'm super busy !", i earn seven thousand yearly.  i've a spouse and a kid.  i work for myself.  i don't make a lot of money.,company - bmw - car,bmw
+2021,0,"do you like bmw cars, they look so cool.",,,
+2021,1,": i am not very fond of bmw, they are not cheap and not very good looking.", i earn seven thousand yearly.  i've a spouse and a kid.  i work for myself.  i don't make a lot of money.,company - bmw - car,car
+2021,0,my favorite car is a used mustang.,,,
+2022,1,user: i am good hope you are doing well, boy bands are the best !.  i loved from up north.  when it snows i enjoy outdoor sports.  i enjoy walking through nature when the weather is warm.  the temperature here is quite brisk and yet it is gorgeous after the thaw.,good - progress - travel,progress
+2022,0,"i am good as well, i am making progress.",,,
+2022,1,: what kind of progress?, boy bands are the best !.  i loved from up north.  when it snows i enjoy outdoor sports.  i enjoy walking through nature when the weather is warm.  the temperature here is quite brisk and yet it is gorgeous after the thaw.,good - progress - travel,travel
+2022,0,you can make progress in your life by travel.,,,
+2023,1,user: great !, i can memorize lines.  i was a child actor.  i used to be an actor in my youth.  i like to act.  i've a flair for the dramatic.,see - buy - shopping,buy
+2023,0,what do you want to buy?,,,
+2023,1,: i want to buy a new house., i can memorize lines.  i was a child actor.  i used to be an actor in my youth.  i like to act.  i've a flair for the dramatic.,see - buy - shopping,shopping
+2023,0,"you should get a laptop and a camera then, you can see lots of good shops in your area.",,,
+2024,1,user: i'm doing well just writing and talking many people . what about yourself, i'm now partnering with bloomsbury and simon shuster.  i don't have strong feelings about the story that i finished.  i share my feelings online.  i'm interested in the thoughts of others.,many - page - restaurant,page
+2024,0,"you should talk about the book you are now producing, i can help you.",,,
+2024,1,: i am still working on my book but have also started talking on my blog., i'm now partnering with bloomsbury and simon shuster.  i don't have strong feelings about the story that i finished.  i share my feelings online.  i'm interested in the thoughts of others.,many - page - restaurant,restaurant
+2024,0,you can read the reviews and ratings on the restaurant.,,,
+2025,1,user: not really . i am a baker, i like puppies.  i like to be outside.  i like baking exclusive treats.  i enjoy live productions.  i like to make cookies.,baker - merchant - travel,merchant
+2025,0,you should try making other things by selling.,,,
+2025,1,: i am a merchant too., i like puppies.  i like to be outside.  i like baking exclusive treats.  i enjoy live productions.  i like to make cookies.,baker - merchant - travel,travel
+2025,0,which part of the world do you like to travel?,,,
+2026,1,user: i'm good ., i had several kittens.  i volunteer at a dog rescue.  i shooting my meals.  i've a couple kids.,home - shop - shopping,shop
+2026,0,have you ever been to a shop?,,,
+2026,1,: i like to shop for clothes and other goods., i had several kittens.  i volunteer at a dog rescue.  i shooting my meals.  i've a couple kids.,home - shop - shopping,shopping
+2026,0,ive been shopping in the past.,,,
+2027,1,user: nope ! all i ever eat is macaroni and cheese ., i like to sit in front of the tv.  i like dancers.  my lox are golden.  i like warm colors.  i love to eat pasta in a cheddar sauce.,macaroni - eating - restaurant,eating
+2027,0,is your mother cooking for you now?,,,
+2027,1,": i eat at many different restaurants, mostly pizza or hamburgers.", i like to sit in front of the tv.  i like dancers.  my lox are golden.  i like warm colors.  i love to eat pasta in a cheddar sauce.,macaroni - eating - restaurant,restaurant
+2027,0,"i am on my lunch break, i am very excited.",,,
+2028,1,"user: lol well i read , single and tired of working at a doctors office", i am not in a relationship.  i like to flip thru books.  my job is in healthcare.  i like lilies a lot.,read - think - clothes,think
+2028,0,you should read and think more every day.,,,
+2028,1,": i read, but never think.", i am not in a relationship.  i like to flip thru books.  my job is in healthcare.  i like lilies a lot.,read - think - clothes,clothes
+2028,0,"i read, but the fact that my head is a mess, i end up buying clothes instead of my brain.",,,
+2029,1,user: i do not have any siblings . i'm pretty solitary, i spend a lot of time on my boat.  i enjoy the swimmers that are stif.  i live along the coast.  i enjoy being on the water.,sibling - companion - travel,companion
+2029,0,you should find someone for companionship.,,,
+2029,1,: im not really into it., i spend a lot of time on my boat.  i enjoy the swimmers that are stif.  i live along the coast.  i enjoy being on the water.,sibling - companion - travel,travel
+2029,0,"i know you are a fisherman, but why dont you go fishing with some friends in the ocean?",,,
+2030,1,user: i think pizza is nasty my students love it lol, i'm not a fan of italian.  my partner and i've recently seperated.  i teach kids how to be creative and express themselves.  i enjoy books.,lol - laugh - clothes,laugh
+2030,0,lol!,,,
+2030,1,: i love it lol, i'm not a fan of italian.  my partner and i've recently seperated.  i teach kids how to be creative and express themselves.  i enjoy books.,lol - laugh - clothes,clothes
+2030,0,do you like wearing clothes?,,,
+2031,1,user: i work as a pharmacist . i drive a nice vehicle, i was a bad kid.  my family is everything to me.  i enjoy mozart.  i work in a drug store.  i really enjoy crafting.,work - wash - car,wash
+2031,0,have you wash your car recently?,,,
+2031,1,: i wash my car every month., i was a bad kid.  my family is everything to me.  i enjoy mozart.  i work in a drug store.  i really enjoy crafting.,work - wash - car,car
+2031,0,do you have a lot of stains on your car?,,,
+2032,1,"user: oh you know , living the dream .", i spend a lot of time outdoors with nature.  i like to walk through nature.  i stand up for animals and the planet.  i've hit alot of attractions.,know - remember - travel,remember
+2032,0,"the more you know, the more you can remember about a topic.",,,
+2032,1,": and the more you remember, the more you can apply to your life.", i spend a lot of time outdoors with nature.  i like to walk through nature.  i stand up for animals and the planet.  i've hit alot of attractions.,know - remember - travel,travel
+2032,0,the memory is the key.,,,
+2033,1,"user: hi , i'm a mother and grand mother"," i volunteer as much as possible.  i am done working ,.  i love italian cooking.  i've a home in the suburbs.",mother - mommy - restaurant,mommy
+2033,0,what do you do in your free time?,,,
+2033,1,: im a stay at home mom. my 4 yr old daughter is my joy. a great deal of free time goes out to be with her.," i volunteer as much as possible.  i am done working ,.  i love italian cooking.  i've a home in the suburbs.",mother - mommy - restaurant,restaurant
+2033,0,"you should apply at local restaurants. chances are, they will give you an hour a week free",,,
+2034,1,"user: no silly , i am only 10 .", i'm completing my studies.  italian food is my favorite !.  i love sweets.  dessert is my favorite meal.,silly - log - travel,log
+2034,0,"you should log in your daily life experiences, you should keep a diary, this is something you can read in college.",,,
+2034,1,: you should get a notebook and a pencil., i'm completing my studies.  italian food is my favorite !.  i love sweets.  dessert is my favorite meal.,silly - log - travel,travel
+2034,0,"you should travel a lot once you graduate, you know this is where you will find a job.",,,
+2035,1,user: sure you aren't ., i love mosh pits.  i am a musical person.  i love pop music.  i've a job at sears.  i am a big fan of pop culture.,sure - servant - restaurant,servant
+2035,0,do you like the food at serval?,,,
+2035,1,": i love the dishes at serval, my favorite dish is the sardines pasta.", i love mosh pits.  i am a musical person.  i love pop music.  i've a job at sears.  i am a big fan of pop culture.,sure - servant - restaurant,restaurant
+2035,0,do you go there often?,,,
+2036,1,"user: glasses is what i need to read , i use em !", i cannot see very well.  i love the series of books about vampires.  i got bullied when i was younger.  i much prefer warm weather sports.,glass - eye - camera,eye
+2036,0,"so you know you need vision testing, which eye do you prefer?",,,
+2036,1,: my right eye., i cannot see very well.  i love the series of books about vampires.  i got bullied when i was younger.  i much prefer warm weather sports.,glass - eye - camera,camera
+2036,0,"your right eye would be fine, your left eye is a bit small.",,,
+2037,1,"user: reading , beaching some . . . football alot everywhere", i like suspense.  i like the sand and water.  i'm a current resident in the united state.  one of my offspring is a quarterback.,read - dog - clothes,dog
+2037,0,can you speak in dog sentences priya?,,,
+2037,1,: i do not speak dog., i like suspense.  i like the sand and water.  i'm a current resident in the united state.  one of my offspring is a quarterback.,read - dog - clothes,clothes
+2037,0,"i like cats, i also like dogs.",,,
+2038,1,user: doing as well as can be expected with the hurricane ., my pop used to be a personal driver.  my relative knows how to go fishing.  i have made 2 trips overseas.  i was asked to give my opinion on preschool education for a tv segment.  the only beaches i've seen in this country are on the atlantic.,expect - kite - travel,kite
+2038,0,do you know how to make kites too?,,,
+2038,1,: i only play with kites., my pop used to be a personal driver.  my relative knows how to go fishing.  i have made 2 trips overseas.  i was asked to give my opinion on preschool education for a tv segment.  the only beaches i've seen in this country are on the atlantic.,expect - kite - travel,travel
+2038,0,you'll have to find some great kites for travelling.,,,
+2039,1,user: my iq is 250 that's for silly emotional fools, i became an orphan at an early age.  my pet keeps me company.  i am very intelligent.  i want cash to see the world.  i like to make miniatures.,silly - log - travel,log
+2039,0,"if you have a high end computer, you should check those statistics.",,,
+2039,1,: i have a log that i collect silly things at., i became an orphan at an early age.  my pet keeps me company.  i am very intelligent.  i want cash to see the world.  i like to make miniatures.,silly - log - travel,travel
+2039,0,"you should open a travel account, do something fun in exotic places.",,,
+2040,1,user: hi ! doing great ! just got my son from practice ., my family is athletic.  my spouse is unemployed.  i work in the gaming industry.  i work for playstation.,son - range - travel,range
+2040,0,are you playing in the range today?,,,
+2040,1,: i am playing in the range all the time., my family is athletic.  my spouse is unemployed.  i work in the gaming industry.  i work for playstation.,son - range - travel,travel
+2040,0,"you should go for a range trip, it will be awesome.",,,
+2041,1,"user: sehr gut . bene . yes i'm able to speak german , italian , some french .", i am a cub master at our local den.  i am fluent in more than three dialects.  i sound like the stars.  i accelerate in working with farm animals.  i make my living doing plumbing and other repairs.,german - food - restaurant,food
+2041,0,you should eat at a food court.,,,
+2041,1,: i love to eat at places with great food., i am a cub master at our local den.  i am fluent in more than three dialects.  i sound like the stars.  i accelerate in working with farm animals.  i make my living doing plumbing and other repairs.,german - food - restaurant,restaurant
+2041,0,how about this amazing german restaurant.,,,
+2042,1,user: just watching car videos about cars . i really like them ., i like the shade of emerald.  i like vehicles.  i'm recently employed.  my best friends are felines.,video - computing - laptop,computing
+2042,0,you should take a look at some of the videos on computers.,,,
+2042,1,": i have some computer stuff, but i can't tell you about it.", i like the shade of emerald.  i like vehicles.  i'm recently employed.  my best friends are felines.,video - computing - laptop,laptop
+2042,0,"if you love computers, you could pick up a laptop and start tinkering with it. what type of laptop do you own?",,,
+2043,1,user: mine is blonde . boring i guess, i live down south.  in 2 months i'll be 54.  i've bright weave.  i have a lot of body mass.,blonde - brunette - car,brunette
+2043,0,do you think brunettes are prettier than blondes?,,,
+2043,1,: i have a friend that thinks so. theres no reason not to be a brunette., i live down south.  in 2 months i'll be 54.  i've bright weave.  i have a lot of body mass.,blonde - brunette - car,car
+2043,0,have you ever had a car?,,,
+2044,1,user: i bet i am fancier than you . i am just being fancy ., i speak the letters back ways.  i became unemployed from the bank recently.  my hair is red.  my mom signed me up for ballet when i was a small child.  i'm going to have my wedding in europe.,bet - pot - restaurant,pot
+2044,0,"i bet you are a regular user of pot, what makes you think you are fancier than me?",,,
+2044,1,: bet is a way to make money out of gambling., i speak the letters back ways.  i became unemployed from the bank recently.  my hair is red.  my mom signed me up for ballet when i was a small child.  i'm going to have my wedding in europe.,bet - pot - restaurant,restaurant
+2044,0,pot is used to have fun.,,,
+2045,1,"user: i am not outgoing , i just marinade in my anger", not long ago i was married but no longer.  i'm very reserved and timid.  i work in the kids section at the local library.  i'd like to have kids one day.  i have to put in my contacts every morning.,anger - rouse - clothes,rouse
+2045,0,do you have a big problem about going rouse?,,,
+2045,1,: i think i will let the anger marinade for a while., not long ago i was married but no longer.  i'm very reserved and timid.  i work in the kids section at the local library.  i'd like to have kids one day.  i have to put in my contacts every morning.,anger - rouse - clothes,clothes
+2045,0,what kind of clothes do you wear to work?,,,
+2046,1,user: nothing much just walk home from work at least miles," i like going fast.  i'm a hard working individual.  my daily goal is to take 15 , 000 steps.  i am a dog lover.  i want to see the new films.",mile - bushel - clothes,bushel
+2046,0,"do you like this new movie, do you think its good?",,,
+2046,1,": its entertaining, and it has some great scenes."," i like going fast.  i'm a hard working individual.  my daily goal is to take 15 , 000 steps.  i am a dog lover.  i want to see the new films.",mile - bushel - clothes,clothes
+2046,0,"its really funny, i like the way they made the clothes out of food.",,,
+2047,1,"user: hello , i am doing well !", hiking is one of my favorite pass times.  pets appeal to me.  i like documentary videos.  i get tired of commercials.,day - holiday - travel,holiday
+2047,0,"you have a lot of nice holidays, but not many days off.",,,
+2047,1,i rarely get tired of holiday., hiking is one of my favorite pass times.  pets appeal to me.  i like documentary videos.  i get tired of commercials.,day - holiday - travel,travel
+2047,0,you should definitely take some trips.,,,
