@@ -41,7 +41,7 @@
 2. Go to terminal window and enter to start RL fine-tuning:<br>
 ```python rlmain.py ```
 
-******Arguments in rlmain.py:
+******Arguments in rlmain.py:******
 
 modelname:str, 'the desired modelname', <br>
 csvfile:str, the csv file to load the annotated dataset from <br>
