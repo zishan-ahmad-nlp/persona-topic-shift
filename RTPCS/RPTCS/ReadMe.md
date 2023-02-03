@@ -39,7 +39,9 @@
 
 1. Provide all the arguments in the "rlmain.py" file.
 2. Go to terminal window and enter to start RL fine-tuning:<br>
-```python rlmain.py ```
+```python
+python rlmain.py 
+```
 
 ******Arguments in rlmain.py:******
 
