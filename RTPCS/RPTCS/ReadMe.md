@@ -38,9 +38,10 @@
 ******FINE-TUNING RL MODEL******
 
 1. Provide all the arguments in the "rlmain.py" file.
-2. Go to terminal window and enter "python rlmain.py" for WindowsOS or "python3 rlmain.py" for UNIX-based OS to start the RL fine-tuning.
+2. Go to terminal window and enter to start RL fine-tuning:<br>
+```python rlmain.py ```
 
-Arguments:
+******Arguments in rlmain.py:
 
 modelname:str, 'the desired modelname', <br>
 csvfile:str, the csv file to load the annotated dataset from <br>
