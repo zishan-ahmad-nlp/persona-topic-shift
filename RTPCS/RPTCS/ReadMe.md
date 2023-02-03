@@ -1,4 +1,4 @@
-The structure of the entire setup is as follows:
+****The structure of the entire setup is as follows:****
 
 ```
 |___________/Codes
@@ -40,10 +40,10 @@ The structure of the entire setup is as follows:
 1. Provide all the arguments in the "rlmain.py" file.
 2. Go to terminal window and enter "python rlmain.py" for WindowsOS or "python3 rlmain.py" for UNIX-based OS to start the RL fine-tuning.
 
-Args:
+Arguments:
 
-modelname:str, 'the desired modelname',
-csvfile:str, the csv file to load the annotated dataset from
+modelname:str, 'the desired modelname', <br>
+csvfile:str, the csv file to load the annotated dataset from <br>
 device:str, Default='cuda'
 n_epochs:int, Default=1
 batch_size:int, Default=1
